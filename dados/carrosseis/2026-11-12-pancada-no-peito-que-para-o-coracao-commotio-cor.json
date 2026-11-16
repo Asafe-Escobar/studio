@@ -1,0 +1,90 @@
+{
+  "id": "2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor",
+  "tipo": "carrossel",
+  "titulo": "Pancada no peito que para o coração (commotio cordis)",
+  "cliente": null,
+  "criado_em": "2026-11-12T15:00:00Z",
+  "arroba": "@medsafebrasil",
+  "origem": {
+    "arquivo": "dados/pesquisas/2026-11-12-cardiologia.json",
+    "indice": 0
+  },
+  "estilo": {
+    "fundo": "#141210",
+    "texto": "#F5F1EC",
+    "destaque": "#FF6A13",
+    "fundo_capa": "#FF6A13",
+    "texto_capa": "#141210"
+  },
+  "slides": [
+    {
+      "n": 1,
+      "tipo": "capa",
+      "titulo": "Uma bolada no peito pode parar o coração",
+      "texto": "",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/01.png"
+    },
+    {
+      "n": 2,
+      "tipo": "conteudo",
+      "titulo": "Sem doença cardíaca",
+      "texto": "Acontece em pessoa saudável, sem aviso antes. O nome é commotio cordis.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/02.png"
+    },
+    {
+      "n": 3,
+      "tipo": "conteudo",
+      "titulo": "O instante errado",
+      "texto": "A pancada acerta o peito numa fração muito curta do batimento.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/03.png"
+    },
+    {
+      "n": 4,
+      "tipo": "conteudo",
+      "titulo": "O coração treme",
+      "texto": "O ritmo vira caótico. Ele vibra em vez de bombear sangue.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/04.png"
+    },
+    {
+      "n": 5,
+      "tipo": "conteudo",
+      "titulo": "Não respira normal? Massagem",
+      "texto": "Se a pessoa cair e não respirar normal, comece a massagem no centro do peito. Forte e rápido.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/05.png"
+    },
+    {
+      "n": 6,
+      "tipo": "conteudo",
+      "titulo": "Ligue 192 e peça o DEA",
+      "texto": "Peça para alguém buscar o desfibrilador. O aparelho explica o passo a passo.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/06.png"
+    },
+    {
+      "n": 7,
+      "tipo": "conteudo",
+      "titulo": "Cada minuto conta",
+      "texto": "Quanto mais cedo o choque, maior a chance de a pessoa voltar.",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/07.png"
+    },
+    {
+      "n": 8,
+      "tipo": "cta",
+      "titulo": "Quem joga bola com você",
+      "texto": "Manda pro seu time",
+      "arquivo": "midia/2026-11-12-pancada-no-peito-que-para-o-coracao-commotio-cor/carrossel/08.png"
+    }
+  ],
+  "legenda": "Uma pancada no peito, no instante errado do batimento, pode fazer o coração entrar em fibrilação, mesmo em quem não tem doença cardíaca. Isso se chama commotio cordis.\n\nO que fazer se alguém cair e não respirar normal:\n1. Ligue 192.\n2. Comece a massagem no centro do peito, forte e rápido.\n3. Peça para buscarem o desfibrilador (DEA) e siga as instruções do aparelho.\n\nManda para quem joga bola com você.\n\nConteúdo educativo, não substitui avaliação médica.\nDr(a). [NOME] | Cardiologista | CRM [UF 000000] | RQE [000000]",
+  "hashtags": [
+    "#cardiologia",
+    "#commotiocordis",
+    "#primeirossocorros",
+    "#desfibrilador",
+    "#mortesubita"
+  ],
+  "alertas": [
+    "[DADO A CONFIRMAR] Mecanismo (impacto na janela vulnerável do batimento levando a fibrilação ventricular). Validar a redação com o médico responsável.",
+    "[DADO A CONFIRMAR] Conduta de leigo (192, compressões, DEA) conforme diretriz vigente da SBC/AHA. Confirmar o número do SAMU e a ordem dos passos.",
+    "Compliance CFM: sem vídeo real de incidente nem atleta identificável. Preencher CRM/RQE reais na legenda antes de publicar."
+  ]
+}

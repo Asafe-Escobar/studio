@@ -1,0 +1,719 @@
+{
+  "id": "2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a",
+  "tipo": "campanha",
+  "cliente": "safeinternato",
+  "criado_em": "2026-11-12T14:30:00Z",
+  "resumo": "Série orgânica 'Plantão Cirúrgico com Dr. Antônio' para o @safeinternato: 6 Reels talking-head em que o cirurgião ensina ao interno o que fazer e o que evitar no centro cirúrgico e no PS. O estilo segue o reel '3 erros na hora de intubar' (2.228 views), com lista numerada falada, instrumento na mão e título fixo em caixa alta. Publicação às terças e quintas de 17/11 a 03/12, e a semana 4 fica para reaproveitamento e respostas a comentários. Meta: passar de 2x a mediana de views de reels do perfil (680, últimos 30 posts). A identidade do Dr. Antônio foi inferida e precisa ser confirmada.",
+  "estrategia": {
+    "objetivo": "Orgânico no Instagram, com três metas: (1) alcance, levar os reels do Dr. Antônio acima da mediana de reels do perfil (680 views nos últimos 30 posts), com 2x a mediana (cerca de 1.360 views) como meta mínima de cada peça; (2) autoridade, ter um cirurgião como rosto fixo da marca, gerando salvamentos e comentários com dúvida técnica; (3) seguidores qualificados, trazer internos e recém-formados para o @safeinternato. Ponto de partida: engajamento mediano de 0,29% por seguidor. Referência de teto: o reel '3 erros na intubação no plantão' (2.228 views, 9 comentários), com o mesmo recorte prático desta série.",
+    "publico": "Interno do 5º ou 6º ano de Medicina, 23 a 27 anos, no rodízio de cirurgia e de pronto-socorro, ou recém-formado que dá plantão de PS enquanto estuda para residência e ENAMED. Dores: medo de errar no centro cirúrgico e ser tirado da sala, medo de contaminar o campo, não saber o que fazer com um abdome agudo no PS, insegurança para suturar e para passar o caso ao cirurgião de plantão, sensação de que a faculdade ensinou teoria e não rotina. Desejos: chegar ao rodízio sabendo agir, ser chamado para participar, ganhar segurança no plantão e ir bem na prova. Objeções: 'conteúdo de Instagram é raso', 'isso eu vejo na apostila', 'cirurgião só grita, não ensina'.",
+    "posicionamento": "No feed do Safe Internato, o Dr. Antônio é o cirurgião que mostra ao interno o que acontece de verdade no centro cirúrgico e no PS: o que fazer, o que nunca fazer e por quê, em cerca de um minuto. É a voz prática e segura da marca, ensinando o que a apostila não ensina e o que o preceptor não tem tempo de explicar.",
+    "pilares": [
+      "Sobrevivendo ao centro cirúrgico (35%): Postura, paramentação, assepsia, papel do interno na sala, erros que fazem o cirurgião tirar o aluno do campo. Lista de erros ('3 erros que...'), padrão do reel de intubação. Pilar de descoberta, feito para compartilhar com o colega de rodízio.",
+      "Cirurgia no PS (30%): Abdome agudo, trauma inicial, sinais de alarme e quando chamar o cirurgião. O que o interno precisa reconhecer no plantão. Gera autoridade e salvamentos.",
+      "Mão na massa (20%): Procedimentos que o interno faz ou ajuda a fazer: sutura, escolha de fio, checklist do pré-operatório. Talking-head com o material na mão e passo a passo curto. Conteúdo de salvar.",
+      "Cirurgia na prova e no ENAMED (15%): Aproveita o assunto que mais performou no perfil (ENAMED: 3 maiores outliers dos últimos 30 posts) com o olhar do cirurgião. Proibido o formato 'resolução de questão alternativa por alternativa' (240 a 550 views). Pilar que leva ao produto (CTA de fundo)."
+    ],
+    "funil": [
+      "Topo: Talking-head de 30 a 45s em lista de erros ou alertas, gancho com número ou situação de plantão nos 3 primeiros segundos, cada erro numerado na tela. Pilares 1 e 2. Métrica: views acima de 1.360, compartilhamentos, novos seguidores. CTA: Manda pro colega que entra no rodízio de cirurgia + segue o @safeinternato para a série completa",
+      "Meio: Talking-head de 45 a 60s com passo a passo ou raciocínio (sutura, pré-operatório, abdome agudo), material na mão. Pilares 2 e 3. Métrica: salvamentos, comentários com dúvida, retenção. CTA: Salva para o próximo plantão + comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo",
+      "Fundo: Talking-head que liga a prática cirúrgica ao ENAMED/residência e apresenta a oferta da Medsafe/Safe Internato (o reel de intubação fechou com convite para a imersão da Medsafe), mais isca por palavra-chave. Pilar 4. Métrica: comentários com a palavra-chave, directs, cliques na bio. CTA: Comenta CIRURGIA que eu te mando o checklist do rodízio [ISCA A CONFIRMAR: o material precisa existir antes da publicação]"
+    ]
+  },
+  "copies": [],
+  "criativos": [],
+  "trafego": {
+    "orcamento_diario": null,
+    "campanhas": [],
+    "testes": []
+  },
+  "roteiros": [
+    {
+      "titulo": "3 erros que fazem o cirurgião te tirar do campo no internato",
+      "formato": "talking-head",
+      "duracao_s": 45,
+      "objetivo": "alcance",
+      "plataforma": "instagram",
+      "gancho": "Três erros que fazem o cirurgião te tirar do campo no internato.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio (cintura para cima), polo preta Medsafe, fundo com painel e logo Medsafe. Segura um par de luvas estéreis na embalagem à altura do peito. Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior abaixo da faixa livre do topo: '3 ERROS QUE TE TIRAM DO CAMPO'.",
+          "fala": "Três erros que fazem o cirurgião te tirar do campo no internato.",
+          "texto_tela": "3 erros no centro cirúrgico"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto. Olhar direto para a câmera.",
+          "fala": "E o terceiro começa antes mesmo de tu entrar na sala.",
+          "texto_tela": "O 3º começa antes da sala"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Volta ao plano médio. Corte para close na mão com a luva encostando na bancada (fora do campo) para ilustrar a contaminação.",
+          "fala": "Erro número um: encostar em algo que não é estéril e ficar calado.",
+          "texto_tela": "1. Contaminar e esconder"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Plano médio, mão aberta à frente do corpo, tom calmo.",
+          "fala": "Contaminou? Avisa na hora e troca. O cirurgião resolve isso em segundos. O que ele não perdoa é descobrir depois.",
+          "texto_tela": "Avise na hora"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Corte seco, zoom no rosto.",
+          "fala": "Erro número dois: pegar instrumento da mesa sem ninguém pedir.",
+          "texto_tela": "2. Mexer na mesa"
+        },
+        {
+          "tempo": "25-31s",
+          "visual": "Close nas mãos, gesto de pedir com a palma aberta.",
+          "fala": "A mesa é da instrumentadora. Tu pede, ela te passa. Quer ajudar? Pergunta antes.",
+          "texto_tela": "Peça, não pegue"
+        },
+        {
+          "tempo": "31-37s",
+          "visual": "Plano médio, leve aproximação da câmera (punch-in) na frase 'vale destacar'.",
+          "fala": "Erro número três, e esse vale destacar: entrar na sala sem saber qual é a cirurgia nem quem é o paciente.",
+          "texto_tela": "3. Chegar sem ler o caso"
+        },
+        {
+          "tempo": "37-41s",
+          "visual": "Zoom no rosto.",
+          "fala": "Lê o prontuário antes. Quem conhece o caso é chamado pra ajudar.",
+          "texto_tela": "Leia o caso antes"
+        },
+        {
+          "tempo": "41-45s",
+          "visual": "Plano médio, aponta para a câmera e sorri de leve. Logo Medsafe visível ao fundo.",
+          "fala": "Manda pro colega que entra no rodízio de cirurgia e segue o Safe Internato pra ver a série completa.",
+          "texto_tela": "Mande pro colega do rodízio"
+        }
+      ],
+      "cta": "Manda pro colega que entra no rodízio de cirurgia e segue o @safeinternato para a série completa",
+      "legenda": "🚨 Contaminou a luva no campo? Avise na hora. O cirurgião resolve isso em segundos.\n\nO problema começa quando ele descobre depois.\n\nDr. Antônio mostra 3 erros que fazem o cirurgião tirar o interno do campo:\n\n1. Encostar em algo que não é estéril e ficar calado\n2. Pegar instrumento da mesa sem ninguém pedir. A mesa é da instrumentadora: peça antes\n3. Entrar na sala sem saber qual é a cirurgia nem quem é o paciente\n\nO terceiro se resolve antes de você chegar ao centro cirúrgico: leia o prontuário e conheça o caso.\n\n👇 Manda pro colega que entra no rodízio de cirurgia e segue o @safeinternato para a série completa.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#internatomedico",
+        "#safeinternato",
+        "#centrocirurgico",
+        "#cirurgia",
+        "#internato",
+        "#estudantedemedicina",
+        "#medicina"
+      ],
+      "ganchos_alternativos": [
+        "Contaminou a luva e ficou calado? Isso te tira da sala.",
+        "Tem um erro no centro cirúrgico que o cirurgião não perdoa no interno.",
+        "Primeiro dia no rodízio de cirurgia? Não pega nada da mesa sem pedir."
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] Conduta após contaminação (trocar só a luva ou também o avental) segue a rotina do serviço: Dr. Antônio validar a frase 'avisa na hora e troca'.",
+        "Gravar sem paciente e sem imagem de cirurgia real; a bancada serve só de apoio."
+      ]
+    },
+    {
+      "titulo": "Abdome agudo no PS: os sinais que fazem o cirurgião descer na hora",
+      "formato": "talking-head",
+      "duracao_s": 60,
+      "objetivo": "autoridade",
+      "plataforma": "instagram",
+      "gancho": "Três sinais de abdome agudo que fazem o cirurgião descer na hora.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio, polo preta Medsafe, fundo com painel e logo Medsafe. Estetoscópio no pescoço, segura uma prancheta. Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior: 'ABDOME AGUDO NO PS'.",
+          "fala": "Três sinais de abdome agudo que fazem o cirurgião descer na hora.",
+          "texto_tela": "3 sinais pra chamar o cirurgião"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto.",
+          "fala": "E o terceiro engana, porque a barriga parece tranquila no exame.",
+          "texto_tela": "O 3º engana no exame"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Close na mão do Dr. Antônio pressionando e soltando o próprio abdome sobre a polo, só para ilustrar o gesto. Sem paciente.",
+          "fala": "Sinal número um: barriga com defesa que o paciente não consegue relaxar. Dói pra soltar a mão, dói pra tossir.",
+          "texto_tela": "1. Sinais de peritonite"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Volta ao plano médio, tom firme.",
+          "fala": "Isso fala de peritonite. Não espera exame de imagem pra avisar o cirurgião.",
+          "texto_tela": "Avise antes da imagem"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Corte seco, zoom no rosto.",
+          "fala": "Sinal número dois: dor abdominal com instabilidade. Pressão caindo, frequência subindo, extremidade fria.",
+          "texto_tela": "2. Instabilidade hemodinâmica"
+        },
+        {
+          "tempo": "25-31s",
+          "visual": "Plano médio, as duas mãos juntas à frente do corpo no 'ao mesmo tempo'.",
+          "fala": "Aqui tu chama o cirurgião e começa a estabilizar ao mesmo tempo. Uma coisa não espera a outra.",
+          "texto_tela": "Chamar e estabilizar juntos"
+        },
+        {
+          "tempo": "31-38s",
+          "visual": "Punch-in na frase 'vale destacar', olhar direto.",
+          "fala": "Sinal número três, e esse vale destacar: dor muito forte com a barriga quase normal no exame.",
+          "texto_tela": "3. Dor maior que o exame"
+        },
+        {
+          "tempo": "38-45s",
+          "visual": "Close na mão segurando o estetoscópio, depois volta ao rosto.",
+          "fala": "Dor desproporcional ao exame, principalmente no idoso, pode ser isquemia intestinal. Quem espera a barriga piorar chega tarde.",
+          "texto_tela": "Pense em isquemia"
+        },
+        {
+          "tempo": "45-52s",
+          "visual": "Plano médio, mostra a prancheta para a câmera (folha em branco ou modelo fictício, sem dado de paciente).",
+          "fala": "Quando ligar, passa o caso em ordem: idade, tempo de dor, sinais vitais e o exame do abdome. O cirurgião decide mais rápido.",
+          "texto_tela": "Passe o caso em ordem"
+        },
+        {
+          "tempo": "52-60s",
+          "visual": "Plano médio, tom de preceptor, aponta para a câmera no 'comenta'.",
+          "fala": "Salva pro próximo plantão. E comenta tua dúvida de cirurgia no PS que eu respondo no próximo vídeo.",
+          "texto_tela": "Salve e comente sua dúvida"
+        }
+      ],
+      "cta": "Salva para o próximo plantão + comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo",
+      "legenda": "🚨 Dor muito forte e barriga quase normal no exame. No idoso, esse quadro engana.\n\nNo plantão, alguns sinais de abdome agudo pedem o cirurgião sem demora. Dr. Antônio passa por três:\n\n1. Defesa que o paciente não consegue relaxar, com dor para soltar a mão e para tossir\n2. Dor abdominal com instabilidade: pressão caindo, frequência subindo, extremidade fria. Chame o cirurgião e comece a estabilizar ao mesmo tempo\n3. Dor desproporcional ao exame, que pode ser isquemia intestinal\n\nNa hora de ligar, passe o caso em ordem: idade, tempo de dor, sinais vitais e exame do abdome.\n\n🩺 Salva para o próximo plantão e comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#abdomeagudo",
+        "#prontosocorro",
+        "#plantaomedico",
+        "#cirurgia",
+        "#internatomedico",
+        "#safeinternato",
+        "#medicina"
+      ],
+      "ganchos_alternativos": [
+        "Medo de ligar pro cirurgião tarde demais? Olha esses sinais.",
+        "Tem abdome agudo que engana porque a barriga parece tranquila.",
+        "Paciente com dor abdominal no PS. Quando você liga pro cirurgião?"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] Sinais de alarme citados (defesa involuntária/peritonite, instabilidade hemodinâmica, dor desproporcional ao exame sugerindo isquemia mesentérica, mais comum no idoso): Dr. Antônio validar critérios e redação.",
+        "[DADO A CONFIRMAR] Frase 'não espera exame de imagem pra avisar o cirurgião': Dr. Antônio validar se é a orientação que quer dar.",
+        "[DADO A CONFIRMAR] Ordem da passagem de caso (idade, tempo de dor, sinais vitais, exame do abdome): ajustar ao modelo que ele usa.",
+        "Sem paciente real e sem imagem de exame de paciente identificável; a prancheta deve estar em branco ou com modelo fictício."
+      ]
+    },
+    {
+      "titulo": "Sutura no PS: os erros que deixam a cicatriz feia e como escolher o fio",
+      "formato": "talking-head",
+      "duracao_s": 60,
+      "objetivo": "autoridade",
+      "plataforma": "instagram",
+      "gancho": "Três erros na sutura do PS que deixam a cicatriz feia.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio, polo preta Medsafe, fundo com painel e logo Medsafe. Segura o porta-agulha montado com fio; almofada de sutura sintética na bancada à frente. Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior: 'SUTURA NO PS'.",
+          "fala": "Três erros na sutura do PS que deixam a cicatriz feia.",
+          "texto_tela": "3 erros que marcam a cicatriz"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto.",
+          "fala": "E o terceiro acontece depois que tu já deu o último ponto.",
+          "texto_tela": "O 3º vem depois da sutura"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Close nas mãos dando um nó apertado na almofada sintética, a borda franzindo.",
+          "fala": "Erro número um: apertar o ponto demais.",
+          "texto_tela": "1. Ponto apertado demais"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Plano médio, depois close no nó frouxo e bem posicionado na almofada.",
+          "fala": "A pele incha nos dias seguintes. Ponto apertado estrangula a borda e deixa marca. Só encosta uma borda na outra.",
+          "texto_tela": "Só aproxime as bordas"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Corte seco, close na mão mostrando duas embalagens de fio lado a lado.",
+          "fala": "Erro número dois: usar o mesmo fio pra tudo.",
+          "texto_tela": "2. Um fio pra tudo"
+        },
+        {
+          "tempo": "25-32s",
+          "visual": "Zoom no rosto, depois close na embalagem do fio mais fino.",
+          "fala": "Rosto pede fio fino. Onde tem tensão, perto de articulação, vai um mais grosso. Na pele, prefere fio monofilamentar.",
+          "texto_tela": "Fio fino no rosto"
+        },
+        {
+          "tempo": "32-38s",
+          "visual": "Close na numeração da embalagem do fio, dedo apontando o número.",
+          "fala": "E lembra: quanto maior o número antes do zero, mais fino é o fio.",
+          "texto_tela": "Mais zeros, fio mais fino"
+        },
+        {
+          "tempo": "38-45s",
+          "visual": "Punch-in no rosto na frase 'vale destacar'.",
+          "fala": "Erro número três, e esse vale destacar: não dizer ao paciente quando tirar os pontos.",
+          "texto_tela": "3. Esquecer a retirada"
+        },
+        {
+          "tempo": "45-52s",
+          "visual": "Plano médio, segura uma folha de orientação de alta em branco.",
+          "fala": "Ponto que fica tempo demais deixa marca. O prazo muda pela região: rosto sai antes que costas. Escreve isso na orientação de alta.",
+          "texto_tela": "Prazo na orientação de alta"
+        },
+        {
+          "tempo": "52-60s",
+          "visual": "Plano médio, porta-agulha na mão, aponta para a câmera no 'comenta'.",
+          "fala": "Salva pro próximo plantão. E comenta tua dúvida de sutura que eu respondo no próximo vídeo.",
+          "texto_tela": "Salve pro próximo plantão"
+        }
+      ],
+      "cta": "Salva para o próximo plantão + comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo",
+      "legenda": "🩺 Cicatriz feia pode começar num ponto apertado demais.\n\nA pele incha nos dias seguintes. Se o ponto estrangula a borda, fica marca. Dr. Antônio mostra 3 erros da sutura no PS:\n\n1. Apertar o ponto demais. Só aproxime uma borda da outra\n2. Usar o mesmo fio para tudo. Rosto pede fio fino, área de tensão pede um mais grosso, e na pele prefira o monofilamentar\n3. Não dizer ao paciente quando tirar os pontos. O prazo muda conforme a região, então escreva na orientação de alta\n\nLembrete da embalagem: quanto maior o número antes do zero, mais fino é o fio.\n\n👇 Salva para o próximo plantão e comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#sutura",
+        "#prontosocorro",
+        "#cirurgia",
+        "#internatomedico",
+        "#safeinternato",
+        "#estudantedemedicina"
+      ],
+      "ganchos_alternativos": [
+        "O ponto ficou bonito hoje e mesmo assim pode deixar marca.",
+        "Na embalagem do fio, o número maior é o fio mais fino. Sabia?",
+        "Corte no rosto chegando no PS. Qual fio você pega?"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] Escolha de fio por região (fio fino na face, mais grosso em área de tensão, monofilamentar na pele): Dr. Antônio validar e decidir se quer citar calibres específicos (o roteiro não cita números de propósito).",
+        "[DADO A CONFIRMAR] Prazo de retirada de pontos por região (face antes de dorso): Dr. Antônio validar; não incluir dias sem a validação dele.",
+        "Demonstrar só em almofada/pele sintética. Nada de ferida ou paciente real."
+      ]
+    },
+    {
+      "titulo": "Cirurgia no ENAMED: por onde um cirurgião começaria a estudar",
+      "formato": "talking-head",
+      "duracao_s": 50,
+      "objetivo": "alcance",
+      "plataforma": "instagram",
+      "gancho": "Se eu fosse estudar cirurgia pro ENAMED hoje, começaria por três temas.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio, polo preta Medsafe, fundo com painel e logo Medsafe. Segura uma pinça anatômica numa mão e um caderno/apostila Medsafe fechado na outra. Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior: 'CIRURGIA NO ENAMED'.",
+          "fala": "Se eu fosse estudar cirurgia pro ENAMED hoje, começaria por três temas.",
+          "texto_tela": "Cirurgia no ENAMED: 3 temas"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto.",
+          "fala": "E o terceiro tu já vê todo dia no plantão e nem percebe.",
+          "texto_tela": "O 3º você vê todo dia"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Plano médio, levanta um dedo no 'número um'.",
+          "fala": "Tema número um: trauma. O atendimento inicial, na ordem certa.",
+          "texto_tela": "1. Trauma: atendimento inicial"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Zoom no rosto.",
+          "fala": "A questão quer saber o que tu faz primeiro. Quem domina a sequência acerta mesmo sem lembrar o detalhe.",
+          "texto_tela": "Domine a sequência"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Corte seco, close na mão com a pinça, gesto apontando.",
+          "fala": "Tema número dois: abdome agudo. Reconhecer o quadro e saber quando a conduta é cirúrgica.",
+          "texto_tela": "2. Abdome agudo"
+        },
+        {
+          "tempo": "25-31s",
+          "visual": "Plano médio, punch-in em 'vale destacar'.",
+          "fala": "Tema número três, e esse vale destacar: pré e pós-operatório.",
+          "texto_tela": "3. Pré e pós-operatório"
+        },
+        {
+          "tempo": "31-38s",
+          "visual": "Zoom no rosto, tom de conversa.",
+          "fala": "Febre no pós, ferida que complica, o paciente que tu examina toda manhã na enfermaria. Isso também é cirurgia na prova.",
+          "texto_tela": "A enfermaria também cai"
+        },
+        {
+          "tempo": "38-44s",
+          "visual": "Plano médio, abre o caderno Medsafe e mostra para a câmera.",
+          "fala": "Estuda pensando no paciente na tua frente. Aí a questão vira plantão.",
+          "texto_tela": "Estude pelo plantão"
+        },
+        {
+          "tempo": "44-50s",
+          "visual": "Plano médio, aponta para a câmera. Palavra CIRURGIA grande no centro da tela.",
+          "fala": "Comenta CIRURGIA que eu te mando o checklist do rodízio.",
+          "texto_tela": "Comente CIRURGIA"
+        }
+      ],
+      "cta": "Comenta CIRURGIA que eu te mando o checklist do rodízio",
+      "legenda": "🩺 Se fosse estudar cirurgia para o ENAMED hoje, um cirurgião começaria por estes 3 temas.\n\nA escolha é do Dr. Antônio, pensando no que o interno já vê no plantão:\n\n1. Trauma: o atendimento inicial, na ordem certa. Domine a sequência\n2. Abdome agudo: reconhecer o quadro e saber quando a conduta é cirúrgica\n3. Pré e pós-operatório: febre no pós, ferida que complica, o paciente que você examina toda manhã na enfermaria\n\nEstude pensando no paciente na sua frente. Aí a questão vira plantão.\n\n👇 Comenta CIRURGIA que eu te mando o checklist do rodízio.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#enamed",
+        "#residenciamedica",
+        "#cirurgia",
+        "#internatomedico",
+        "#safeinternato",
+        "#estudantedemedicina"
+      ],
+      "ganchos_alternativos": [
+        "Abriu a apostila de cirurgia e não sabe por onde começar?",
+        "Tem tema de cirurgia que você vê todo dia no plantão e esquece de estudar.",
+        "O paciente que você examina toda manhã na enfermaria também é matéria de prova."
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] O tema pedido era 'o que mais cai no ENAMED', mas não há levantamento de incidência por tema. O roteiro foi escrito como opinião do cirurgião ('por onde eu começaria'). Se o Dr. Antônio ou a Medsafe tiverem dados de provas anteriores, trocar o gancho para a versão com a fonte.",
+        "[DADO A CONFIRMAR] Temas escolhidos (trauma/atendimento inicial, abdome agudo, pré e pós-operatório): Dr. Antônio validar ou trocar.",
+        "[ISCA A CONFIRMAR] O 'checklist do rodízio' precisa existir e a automação de resposta ao comentário CIRURGIA precisa estar ativa antes da publicação.",
+        "Não usar o formato de resolução de questão alternativa por alternativa (baixo desempenho no perfil).",
+        "Legenda publicada pelo perfil da marca repete o CTA em 1ª pessoa ('eu te mando'): confirmar quem responde os comentários CIRURGIA (Dr. Antônio ou equipe) e, se for a equipe, trocar por 'a gente te manda'."
+      ]
+    },
+    {
+      "titulo": "Paramentação: onde o interno contamina o campo sem perceber",
+      "formato": "talking-head",
+      "duracao_s": 45,
+      "objetivo": "alcance",
+      "plataforma": "instagram",
+      "gancho": "Três momentos em que o interno contamina o campo sem perceber.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio, polo preta Medsafe, fundo com painel e logo Medsafe. Segura avental cirúrgico dobrado com luvas estéreis por cima. Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior: 'PARAMENTAÇÃO'.",
+          "fala": "Três momentos em que o interno contamina o campo sem perceber.",
+          "texto_tela": "Onde você contamina o campo"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto.",
+          "fala": "E o terceiro acontece quando tu já tá pronto, só esperando.",
+          "texto_tela": "O 3º é com você pronto"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Plano médio, braços flexionados com as mãos para cima, depois deixa uma mão cair abaixo do cotovelo para mostrar o erro.",
+          "fala": "Momento número um: depois da escovação, deixar a mão cair abaixo do cotovelo.",
+          "texto_tela": "1. Mão abaixo do cotovelo"
+        },
+        {
+          "tempo": "13-18s",
+          "visual": "Close nos antebraços na posição correta, mãos acima dos cotovelos.",
+          "fala": "A água escorre da mão pro cotovelo. E não encosta na pia nem na torneira.",
+          "texto_tela": "Água escorre pro cotovelo"
+        },
+        {
+          "tempo": "18-24s",
+          "visual": "Corte seco, close nas mãos vestindo o avental e puxando a luva com a mão dentro da manga.",
+          "fala": "Momento número dois: calçar a luva tocando a parte de fora com a pele.",
+          "texto_tela": "2. Pele fora da luva"
+        },
+        {
+          "tempo": "24-29s",
+          "visual": "Close na mão saindo da manga já dentro da luva.",
+          "fala": "A mão fica dentro da manga do avental até a luva estar no lugar.",
+          "texto_tela": "Mão dentro da manga"
+        },
+        {
+          "tempo": "29-35s",
+          "visual": "Plano médio, paramentado, cruza os braços com as mãos nas axilas para mostrar o erro. Um X vermelho discreto ao lado.",
+          "fala": "Momento número três, e esse vale destacar: paramentado, esperando, de braço cruzado ou com a mão abaixo da cintura.",
+          "texto_tela": "3. Mão fora da zona estéril"
+        },
+        {
+          "tempo": "35-40s",
+          "visual": "Zoom nas mãos juntas à frente do peito, acima da cintura.",
+          "fala": "Mão juntinha na frente do peito, acima da cintura, até o cirurgião chamar.",
+          "texto_tela": "Mãos à frente, acima da cintura"
+        },
+        {
+          "tempo": "40-45s",
+          "visual": "Plano médio, ainda paramentado, olha para a câmera.",
+          "fala": "Manda pro colega que entra no rodízio de cirurgia e segue o Safe Internato pra ver a série completa.",
+          "texto_tela": "Mande pro colega do rodízio"
+        }
+      ],
+      "cta": "Manda pro colega que entra no rodízio de cirurgia + segue o @safeinternato para a série completa",
+      "legenda": "🚨 Paramentado e esperando o cirurgião chamar? Repare onde estão suas mãos.\n\nDr. Antônio mostra 3 momentos em que o interno contamina o campo sem perceber:\n\n1. Depois da escovação, deixar a mão cair abaixo do cotovelo. A água escorre da mão para o cotovelo, e nada de encostar na pia ou na torneira\n2. Calçar a luva tocando a parte de fora com a pele. A mão fica dentro da manga do avental até a luva estar no lugar\n3. Esperar de braço cruzado ou com a mão abaixo da cintura. Mãos juntas à frente do peito, acima da cintura, até o cirurgião chamar\n\n👇 Manda pro colega que entra no rodízio de cirurgia e segue o @safeinternato para a série completa.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#paramentacao",
+        "#centrocirurgico",
+        "#cirurgia",
+        "#internatomedico",
+        "#safeinternato",
+        "#estudantedemedicina",
+        "#medicina"
+      ],
+      "ganchos_alternativos": [
+        "Cruzar os braços no centro cirúrgico pode contaminar o campo.",
+        "Você já está paramentado, só esperando. Onde estão suas mãos?",
+        "Dá pra contaminar o campo sem nem perceber. Olha onde."
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] Técnica de escovação e secagem, calçamento de luva com mão dentro da manga (técnica fechada) e zona estéril do avental (frente, do peito até a cintura): Dr. Antônio validar conforme o protocolo que ensina.",
+        "Gravar a demonstração fora do centro cirúrgico real, sem paciente e sem imagem de cirurgia."
+      ]
+    },
+    {
+      "titulo": "Pré-operatório: o que checar antes de o paciente descer para o centro cirúrgico",
+      "formato": "talking-head",
+      "duracao_s": 60,
+      "objetivo": "autoridade",
+      "plataforma": "instagram",
+      "gancho": "Antes de o paciente descer pro centro cirúrgico, confere essas quatro coisas.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Em pé, plano médio, polo preta Medsafe, fundo com painel e logo Medsafe. Segura uma prancheta com um checklist em modelo fictício (sem nome nem dado de paciente). Título fixo durante todo o vídeo, branco, caixa alta, bold, no terço superior: 'PRÉ-OPERATÓRIO'.",
+          "fala": "Antes de o paciente descer pro centro cirúrgico, confere essas quatro coisas.",
+          "texto_tela": "4 checagens antes de descer"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco, zoom de 110% no rosto.",
+          "fala": "E a quarta costuma ser lembrada só na porta da sala.",
+          "texto_tela": "A 4ª fica pra última hora"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Close na prancheta, caneta marcando o primeiro item.",
+          "fala": "Número um: identificação e termo de consentimento assinado. Paciente certo, cirurgia certa, lado certo marcado.",
+          "texto_tela": "1. Paciente, cirurgia e lado"
+        },
+        {
+          "tempo": "13-20s",
+          "visual": "Zoom no rosto, tom de preceptor.",
+          "fala": "Número dois: jejum. Pergunta tu mesmo ao paciente a hora que ele comeu por último. Não confia só no papel.",
+          "texto_tela": "2. Confirme o jejum"
+        },
+        {
+          "tempo": "20-27s",
+          "visual": "Plano médio, corte para close na caneta marcando o terceiro item.",
+          "fala": "Número três: medicação em uso. Anticoagulante, remédio de diabetes. Alguns precisam de ajuste antes da cirurgia.",
+          "texto_tela": "3. Remédios em uso"
+        },
+        {
+          "tempo": "27-33s",
+          "visual": "Zoom no rosto.",
+          "fala": "Achou algum no prontuário? Avisa o cirurgião e o anestesista antes de o paciente descer.",
+          "texto_tela": "Avise antes de descer"
+        },
+        {
+          "tempo": "33-40s",
+          "visual": "Punch-in na frase 'vale destacar'.",
+          "fala": "Número quatro, e esse vale destacar: alergias, exames e reserva de sangue quando a cirurgia pede.",
+          "texto_tela": "4. Alergias, exames, sangue"
+        },
+        {
+          "tempo": "40-47s",
+          "visual": "Close na prancheta, dedo no item de alergias.",
+          "fala": "Uma alergia que ninguém anotou muda a sala inteira. E exame faltando pode atrasar ou suspender a cirurgia.",
+          "texto_tela": "Alergia muda a sala"
+        },
+        {
+          "tempo": "47-53s",
+          "visual": "Plano médio, vira a prancheta para a câmera.",
+          "fala": "Isso está no checklist de cirurgia segura. O interno que confere ganha a confiança da equipe.",
+          "texto_tela": "Checklist de cirurgia segura"
+        },
+        {
+          "tempo": "53-60s",
+          "visual": "Plano médio, aponta para a câmera no 'comenta'.",
+          "fala": "Salva pro próximo plantão. E comenta tua dúvida de cirurgia que eu respondo no próximo vídeo.",
+          "texto_tela": "Salve e comente sua dúvida"
+        }
+      ],
+      "cta": "Salva para o próximo plantão + comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo",
+      "legenda": "🩺 Uma alergia que ninguém anotou muda a sala inteira.\n\nAntes de o paciente descer para o centro cirúrgico, Dr. Antônio confere 4 coisas:\n\n1. Identificação e termo de consentimento assinado: paciente certo, cirurgia certa, lado certo marcado\n2. Jejum. Pergunte você mesmo a hora da última refeição, sem confiar só no papel\n3. Medicações em uso, como anticoagulante e remédio de diabetes. Achou algum? Avise o cirurgião e o anestesista antes de o paciente descer\n4. Alergias, exames e reserva de sangue quando a cirurgia pede. Exame faltando pode atrasar ou suspender a cirurgia\n\nTudo isso faz parte do checklist de cirurgia segura.\n\n👇 Salva para o próximo plantão e comenta sua dúvida de cirurgia que o Dr. Antônio responde no próximo vídeo.\n\nSérie Plantão Cirúrgico com Dr. Antônio",
+      "hashtags": [
+        "#preoperatorio",
+        "#cirurgiasegura",
+        "#cirurgia",
+        "#internatomedico",
+        "#safeinternato",
+        "#estudantedemedicina"
+      ],
+      "ganchos_alternativos": [
+        "Cirurgia suspensa por um exame que ninguém conferiu.",
+        "Uma alergia que ninguém anotou muda a sala inteira.",
+        "O paciente já está na maca pra descer. Você conferiu o jejum?"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "avatar": null,
+      "alertas": [
+        "Exibir nome + CRM/RQE do Dr. Antônio na tela (publicidade médica CFM)",
+        "[DADO A CONFIRMAR] Itens e ordem do checklist pré-operatório (identificação, consentimento, lateralidade, jejum, medicações, alergias, exames, reserva de sangue): Dr. Antônio validar. O roteiro não cita horas de jejum nem prazos de suspensão de medicação de propósito.",
+        "[DADO A CONFIRMAR] Referência ao 'checklist de cirurgia segura' (OMS/protocolo do serviço): confirmar o nome que ele usa.",
+        "Prancheta e prontuário com modelo fictício, sem nome, foto ou dado de paciente real."
+      ]
+    }
+  ],
+  "calendario": [
+    {
+      "data": "2026-11-13",
+      "hora": null,
+      "fuso": "America/Fortaleza",
+      "canal": "producao",
+      "peca": "Gravação em lote dos 6 roteiros com Dr. Antônio",
+      "status": "planejado",
+      "ref": null
+    },
+    {
+      "data": "2026-11-17",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "3 erros que fazem o cirurgião te tirar do campo no internato",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 0
+      }
+    },
+    {
+      "data": "2026-11-19",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Abdome agudo no PS: os sinais que fazem o cirurgião descer na hora",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 1
+      }
+    },
+    {
+      "data": "2026-11-24",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Sutura no PS: os erros que deixam a cicatriz feia e como escolher o fio",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 2
+      }
+    },
+    {
+      "data": "2026-11-26",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "O que da cirurgia mais cai no ENAMED, na visão de um cirurgião",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 3
+      }
+    },
+    {
+      "data": "2026-12-01",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Paramentação: onde o interno contamina o campo sem perceber",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 4
+      }
+    },
+    {
+      "data": "2026-12-03",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Pré-operatório: o que checar antes de o paciente descer para o centro cirúrgico",
+      "status": "planejado",
+      "ref": {
+        "arquivo": "dados/campanhas/2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a.json",
+        "tipo": "roteiro",
+        "indice": 5
+      }
+    },
+    {
+      "data": "2026-12-07",
+      "hora": "09:00",
+      "fuso": "America/Fortaleza",
+      "canal": "producao",
+      "peca": "Revisão de métricas 48h dos 6 Reels da série (comparar com a mediana de 680 views e a meta de 1.360) + levantamento das dúvidas nos comentários",
+      "status": "planejado",
+      "ref": null
+    },
+    {
+      "data": "2026-12-09",
+      "hora": "09:00",
+      "fuso": "America/Fortaleza",
+      "canal": "producao",
+      "peca": "Gravação do Reel-resposta com Dr. Antônio (dúvida mais repetida nos comentários)",
+      "status": "planejado",
+      "ref": null
+    },
+    {
+      "data": "2026-12-09",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Carrossel: resumo dos 3 vídeos de maior performance da série Plantão Cirúrgico com Dr. Antônio",
+      "status": "planejado",
+      "ref": null
+    },
+    {
+      "data": "2026-12-11",
+      "hora": "19:00",
+      "fuso": "America/Fortaleza",
+      "canal": "instagram",
+      "peca": "Dr. Antônio responde: dúvida dos comentários (tema a definir na revisão de 07/12)",
+      "status": "planejado",
+      "ref": null
+    }
+  ],
+  "pendencias": [
+    "Confirmar que o médico do reel Dfk5mtvBeiO é o Dr. Antônio.",
+    "Subespecialidade, CRM e RQE do Dr. Antônio (exibir no vídeo pela regra de publicidade médica do CFM).",
+    "Nome e status da oferta (imersão/curso Medsafe) e se a isca 'checklist do rodízio' existe.",
+    "Cadastrar o professor em dados/perfis/safeinternato.json e criar clientes/safeinternato/professores/antonio.md."
+  ],
+  "professor": {
+    "perfil": "safeinternato",
+    "id": "dr-antonio",
+    "nome": "Dr. Antônio"
+  },
+  "titulo": "Dr. Antônio · Série de cirurgia"
+}

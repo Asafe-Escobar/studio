@@ -1,0 +1,10 @@
+midia/
+dados/jobs/
+.maestri/
+__pycache__/
+*.pyc
+.env
+
+.claude/settings.local.json
+node_modules/
+*.log

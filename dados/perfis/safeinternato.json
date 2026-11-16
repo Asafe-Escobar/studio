@@ -1,0 +1,216 @@
+{
+  "id": "safeinternato",
+  "tipo": "perfil",
+  "criado_em": "2026-11-12T13:17:21+00:00",
+  "professores": [
+    {
+      "id": "dr-antonio",
+      "criado_em": "2026-11-12T14:28:08Z",
+      "pesquisa_id": "2026-11-12-cirurgia-geral-dr-antonio",
+      "nome": "Dr. Antônio",
+      "especialidade": "Cirurgia Geral",
+      "instagram": "",
+      "bio": "Cirurgião, professor do Safe Internato. Rosto fixo da série de cirurgia: mostra ao interno o que acontece de verdade no centro cirúrgico e no PS.",
+      "publico": "Interno do 5º ou 6º ano de Medicina, 23 a 27 anos, no rodízio de cirurgia e de pronto-socorro, ou recém-formado que dá plantão de PS enquanto estuda para residência e ENAMED. Dores: medo de errar no centro cirúrgico e ser tirado da sala, medo de contaminar o campo, não saber o que fazer com um abdome agudo no PS, insegurança para suturar e para passar o caso ao cirurgião de plantão, sensação de que a faculdade ensinou teoria e não rotina. Desejos: chegar ao rodízio sabendo agir, ser chamado para participar, ganhar segurança no plantão e ir bem na prova. Objeções: 'conteúdo de Instagram é raso', 'isso eu vejo na apostila', 'cirurgião só grita, não ensina'.",
+      "tom_de_voz": "Preceptor calmo e seguro, frases curtas, estrutura numerada falada ('Erro número um...'). Mistura 'você' com 'tu/teu' e regionalismo nordestino ('aperreio') na fala; legendas e texto na tela em português padrão com 'você'.",
+      "temas": [
+        "Sobrevivendo ao centro cirúrgico",
+        "Cirurgia no PS",
+        "Mão na massa",
+        "Cirurgia na prova e no ENAMED",
+        "abdome agudo",
+        "sutura e fios",
+        "paramentação e assepsia",
+        "pré-operatório",
+        "via aérea / intubação"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "gíria de influencer",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": "b43d9482a3634a99a6d2a58fe4061e2f",
+        "voice_id": "2218c10a982b43c8bd282bbfa07cea89",
+        "consentimento": true,
+        "avatar_group_id": "81c320f246ee4b19a8b4deca052122ef",
+        "avatar_foto_id": "81c320f246ee4b19a8b4deca052122ef",
+        "looks": [
+          {
+            "id": "b43d9482a3634a99a6d2a58fe4061e2f",
+            "nome": "Polo rosa (vídeo original)",
+            "tipo": "digital_twin",
+            "imagem": "midia/avatares/dr-antonio/polo-rosa.jpg"
+          },
+          {
+            "id": "4cb0a18eec6516995e6cbafc54ab9a61",
+            "nome": "Polo azul-marinho",
+            "tipo": "photo_avatar",
+            "imagem": "midia/avatares/dr-antonio/polo-marinho.png"
+          }
+        ]
+      },
+      "entregas": [
+        {
+          "tipo": "campanhas",
+          "id": "2026-11-12-preciso-criar-um-video-informativo-sobre-algum-a",
+          "titulo": "Série de cirurgia: estratégia e 6 roteiros"
+        }
+      ]
+    },
+    {
+      "id": "dr-brenno",
+      "criado_em": "2026-11-12T19:06:16Z",
+      "pesquisa_id": null,
+      "nome": "Dr. Brenno",
+      "especialidade": "Nefrologia e Nutrologia",
+      "instagram": "",
+      "bio": "Professor(a) de Nefrologia e Nutrologia do Safe Internato.",
+      "publico": "Interno do 5º ou 6º ano de Medicina e recém-formado que dá plantão enquanto estuda para residência e ENAMED.",
+      "tom_de_voz": "",
+      "temas": [
+        "insuficiência renal aguda no plantão",
+        "distúrbios hidroeletrolíticos (sódio, potássio)",
+        "gasometria e ácido-base",
+        "doença renal crônica",
+        "nutrição do paciente internado",
+        "nefro e nutro na prova e no ENAMED"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": null,
+        "voice_id": null,
+        "consentimento": false
+      }
+    },
+    {
+      "id": "dra-luciana-ximenes",
+      "criado_em": "2026-11-12T19:06:16Z",
+      "pesquisa_id": null,
+      "nome": "Dra. Luciana Ximenes",
+      "especialidade": "Ginecologia e Obstetrícia",
+      "instagram": "",
+      "bio": "Professor(a) de Ginecologia e Obstetrícia do Safe Internato.",
+      "publico": "Interno do 5º ou 6º ano de Medicina e recém-formado que dá plantão enquanto estuda para residência e ENAMED.",
+      "tom_de_voz": "",
+      "temas": [
+        "rodízio de G.O. no internato",
+        "pré-natal",
+        "sala de parto",
+        "emergências obstétricas",
+        "sangramento na gestação",
+        "G.O. na prova e no ENAMED"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": null,
+        "voice_id": null,
+        "consentimento": false
+      }
+    },
+    {
+      "id": "dra-gabriela",
+      "criado_em": "2026-11-12T19:06:16Z",
+      "pesquisa_id": null,
+      "nome": "Dra. Gabriela",
+      "especialidade": "Clínica Médica e Endocrinologia e Metabologia",
+      "instagram": "",
+      "bio": "Professor(a) de Clínica Médica e Endocrinologia e Metabologia do Safe Internato.",
+      "publico": "Interno do 5º ou 6º ano de Medicina e recém-formado que dá plantão enquanto estuda para residência e ENAMED.",
+      "tom_de_voz": "",
+      "temas": [
+        "diabetes no internato e no plantão",
+        "cetoacidose e estado hiperosmolar",
+        "tireoide",
+        "insulinização do paciente internado",
+        "clínica médica na enfermaria",
+        "endócrino na prova e no ENAMED"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": null,
+        "voice_id": null,
+        "consentimento": false
+      }
+    },
+    {
+      "id": "dr-guilherme",
+      "criado_em": "2026-11-12T19:06:16Z",
+      "pesquisa_id": null,
+      "nome": "Dr. Guilherme",
+      "especialidade": "Clínica Médica e Plantão",
+      "instagram": "",
+      "bio": "Professor(a) de Clínica Médica e Plantão do Safe Internato.",
+      "publico": "Interno do 5º ou 6º ano de Medicina e recém-formado que dá plantão enquanto estuda para residência e ENAMED.",
+      "tom_de_voz": "",
+      "temas": [
+        "sobrevivendo ao primeiro plantão",
+        "emergências clínicas",
+        "prescrição no PS",
+        "passagem de plantão",
+        "dor torácica e sepse no PS",
+        "clínica médica na prova e no ENAMED"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": null,
+        "voice_id": null,
+        "consentimento": false
+      }
+    },
+    {
+      "id": "dr-sheldon",
+      "criado_em": "2026-11-12T19:06:16Z",
+      "pesquisa_id": null,
+      "nome": "Dr. Sheldon",
+      "especialidade": "Clínica Médica",
+      "instagram": "",
+      "bio": "Professor(a) de Clínica Médica do Safe Internato.",
+      "publico": "Interno do 5º ou 6º ano de Medicina e recém-formado que dá plantão enquanto estuda para residência e ENAMED.",
+      "tom_de_voz": "",
+      "temas": [
+        "enfermaria de clínica médica",
+        "evolução e prescrição",
+        "raciocínio clínico",
+        "exames que o interno precisa saber ler",
+        "antibióticos no dia a dia",
+        "clínica médica na prova e no ENAMED"
+      ],
+      "evitar": [
+        "formato de resolução de questão alternativa por alternativa (240 a 550 views no perfil)",
+        "dados clínicos sem fonte"
+      ],
+      "heygen": {
+        "avatar_id": null,
+        "voice_id": null,
+        "consentimento": false
+      }
+    }
+  ],
+  "publico": "",
+  "nome": "Safe Internato",
+  "instagram": "@safeinternato",
+  "ig_id": "17841478383081674",
+  "pagina": "Safeinternato",
+  "seguidores": 5595,
+  "posts": 178,
+  "descricao": "• Medicina de Alta Performance.\n• Tudo em um só lugar para o interno. \n• Prática médica segura, humana e tecnológica.",
+  "foto": "https://scontent.fthe9-2.fna.fbcdn.net/v/t51.82787-15/715079340_17874596004612770_3610831596716166472_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=7d201b&_nc_ohc=4XPEUbR6i9gQ7kNvwG-SZvG&_nc_oc=Adrvx2XpbI6yJusHfQW3lRawxtUtOokE_Nb8UBfRXY0bFEGPj2tFqEpGog3l7Xvu5evjiEO30eYidyI7rPHBj46m&_nc_zt=23&_nc_ht=scontent.fthe9-2.fna&edm=AGaHXAAEAAAA&_nc_gid=amxvhjK1ePb4LAtpQ3LnjQ&oh=00_AQR6hJGeqYU5Znx7w_zh_x5h7mE9VvCrjEMljcrsi8Jf5g&oe=6AFB89E0",
+  "estilo_video": {
+    "estilo": "safe",
+    "cor": "#E30613",
+    "descricao": "título branco grande com sombra escura no topo; palavra falada em caixa vermelha; destaques em vermelho"
+  }
+}

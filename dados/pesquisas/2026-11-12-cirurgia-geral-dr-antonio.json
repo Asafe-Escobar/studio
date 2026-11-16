@@ -1,0 +1,547 @@
+{
+  "id": "2026-11-12-cirurgia-geral-dr-antonio",
+  "tipo": "pesquisa",
+  "nicho": "cirurgia geral para internos (centro cirúrgico, PS cirúrgico, internato de cirurgia) · Dr. Antônio / @safeinternato",
+  "criado_em": "2026-11-12T19:40:00Z",
+  "fontes": [
+    "meta:business_discovery"
+  ],
+  "metrica_views": "view_count (Reels)",
+  "resumo": "Coleta real pela API oficial da Meta: 7 perfis de educação médica (@safeinternato, @estrategiamed, @medcel, @grupomedcof, @medgrupo, @sanar, @hardworkmedicina), 210 posts, 30 por perfil. Nenhum perfil de cirurgião educador entrou: os @ testados (@cirurgiaonline, @drgustavo.cirurgiao, @cirurgiaparainternos, @medcof, @medway, @medway.residencia, @sanarmed, @aristo.educacao) voltaram como não encontrados ou conta pessoal. Conteúdo técnico de cirurgia puro (diretriz de apendicite, obstrução arterial, questão de conduta) ficou abaixo da mediana dos próprios perfis; o que puxou alcance foi notícia regulatória (ENAMED), rotina e identidade do interno/plantonista e professor com opinião ou pergunta direta. No Safe Internato, o reel '3 erros na intubação' (2.272 views) foi o melhor reel de procedimento, perto de 4x a mediana de views do perfil (577); resolução de questão ficou entre 552 e 1.597 views. Engajamento de Reels = (likes + comentários) / views; carrossel e imagem não têm views na API, então o engajamento deles é sobre seguidores. outlier_score = interações do post / mediana de interações do perfil (cálculo da ferramenta).",
+  "formatos": [
+    {
+      "formato": "talking-head",
+      "participacao": 0.581,
+      "views_medias": 5498.5,
+      "engajamento_medio": 0.0163,
+      "por_que_funciona": "Reels de professor falando para a câmera são a maioria do lote (122 de 210 posts; views e engajamento são medianas). Funcionam quando trazem urgência (notícia de prova/ENAMED), situação de rotina do interno ou uma opinião forte. Formato inferido: a API não diferencia talking-head de outros Reels.",
+      "exemplo_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/"
+    },
+    {
+      "formato": "carrossel",
+      "participacao": 0.314,
+      "views_medias": null,
+      "engajamento_medio": 0.00075,
+      "por_que_funciona": "Usado para notícia (concorrência de residência, ENAMED) e resumo de diretriz. Engajamento mediano sobre seguidores. Carrossel de questão de cirurgia rendeu pouco.",
+      "exemplo_url": "https://www.instagram.com/p/DejgqExkUTk/"
+    },
+    {
+      "formato": "entrevista-podcast",
+      "participacao": null,
+      "views_medias": null,
+      "engajamento_medio": null,
+      "por_que_funciona": "Só 2 posts no lote (No Papo do @medgrupo), mas um deles é o maior do lote (230.960 views, 347 comentários) puxado por CTA de palavra-chave. Participação não calculada separadamente.",
+      "exemplo_url": "https://www.instagram.com/reel/DemDxeAhLRE/"
+    }
+  ],
+  "padroes": [
+    {
+      "titulo": "Situação de rotina vence conteúdo técnico de cirurgia",
+      "descricao": "Os posts técnicos de cirurgia (diretriz de apendicite, indicação cirúrgica em obstrução arterial, questão de conduta) ficaram entre 0,1x e 1,3x a mediana do perfil. Os que passaram de 4x falam do dia a dia do interno: plantão, rodízio, horas de estudo, erro no procedimento. Para o Dr. Antônio, o tema técnico precisa entrar por uma cena do rodízio de cirurgia ou do PS.",
+      "evidencia": "Apendicite Jerusalém @medcel 932 views (0,5x); obstrução arterial @grupomedcof 4.824 views e 0 comentários (0,1x); questão de cirurgia @estrategiamed 1,3x; horas de estudo no internato @estrategiamed 55.813 views (16,9x); 3 erros na intubação @safeinternato 2.272 views (~4x a mediana de views)."
+    },
+    {
+      "titulo": "Promessa numerada + medo do interno",
+      "descricao": "No próprio Safe Internato o melhor reel de procedimento foi a lista de 3 erros falada pelo professor. Gancho com número e com o medo do interno (errar, ser tirado da sala, travar no plantão) segura a atenção sem precisar de notícia.",
+      "evidencia": "@safeinternato Dfk5mtvBeiO 2.272 views e 9 comentários contra mediana de 577 views; resoluções de questão do mesmo perfil entre 552 e 1.597 views."
+    },
+    {
+      "titulo": "Pergunta direta ou CTA de palavra-chave geram comentário",
+      "descricao": "Os reels com mais comentários pedem uma resposta: pergunta sobre a rotina ('quantas horas você consegue estudar?') ou 'Comente PALAVRA e receba'. Só usar palavra-chave se houver material real para mandar.",
+      "evidencia": "@medgrupo No Papo 347 comentários; MEDEspecialidades 79; @estrategiamed horas de estudo 38; post do e-book de atualizações @estrategiamed 187 comentários."
+    },
+    {
+      "titulo": "Notícia regulatória (ENAMED, residência) puxa alcance até em perfil pequeno",
+      "descricao": "Os 2 maiores reels do Safe Internato no período são notícia do ENAMED (~15x a mediana de views). Bom para pauta oportunista, mas não é o terreno do Dr. Antônio; o gancho dele pode citar a prova quando fizer sentido.",
+      "evidencia": "@safeinternato DejylF7xZRy 8.768 views e Dfahm-vhJRA 8.702 views; @grupomedcof bolsa de residência 8.799 likes (68x); @medgrupo carrossel ENAMED 10,3x."
+    }
+  ],
+  "posts_referencia": [
+    {
+      "url": "https://www.instagram.com/reel/DejylF7xZRy/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "ENAMED APROVADO!",
+      "views": 8768,
+      "likes": 166,
+      "comentarios": 12,
+      "data": "2026-10-16",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 11.12,
+      "resumo": "Notícia quente do ENAMED no próprio Safe Internato: 8.768 views, cerca de 15x a mediana de views do perfil (577). Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfahm-vhJRA/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "AGORA É LEI! Lula sanciona o ENAMED",
+      "views": 8702,
+      "likes": 119,
+      "comentarios": 17,
+      "data": "2026-11-06",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 8.5,
+      "resumo": "Segundo reel de notícia do ENAMED no perfil, 8.702 views e 17 comentários. Urgência regulatória puxa alcance até em perfil pequeno. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "3 erros que não deves cometer na intubação no teu plantão",
+      "views": 2272,
+      "likes": 26,
+      "comentarios": 9,
+      "data": "2026-11-10",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 2.19,
+      "resumo": "Reel do Dr. Antônio (identidade inferida). 2.272 views, quase 4x a mediana de views do perfil, 9 comentários. Melhor reel de procedimento do perfil no período."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dd2F18KSUkX/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Nem todo plantão de sala de parto é emergência ou 'tudo lindo'",
+      "views": 2267,
+      "likes": 65,
+      "comentarios": 1,
+      "data": "2026-09-28",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 4.12,
+      "resumo": "Rotina real do internato (obstetrícia), corte de conversa. 2.267 views, outlier 4,1x em interações. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfGKtlzuo2z/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Atualização em Hemorragia Pós-Parto",
+      "views": 2381,
+      "likes": 50,
+      "comentarios": 2,
+      "data": "2026-10-29",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 3.25,
+      "resumo": "Atualização de diretriz com conduta prática, 2.381 views, outlier 3,25x. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfk7hXhvq2r/",
+      "perfil": "@estrategiamed",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Quantas horas de estudo você consegue encaixar na sua rotina de internato?",
+      "views": 55813,
+      "likes": 623,
+      "comentarios": 38,
+      "data": "2026-11-10",
+      "seguidores": 318128,
+      "compartilhamentos": null,
+      "outlier_score": 16.95,
+      "resumo": "Pergunta direta sobre a rotina do interno: 55.813 views, outlier 16,9x, 38 comentários. A pergunta na legenda puxa resposta. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfpcmvgBvL1/",
+      "perfil": "@estrategiamed",
+      "rede": "instagram",
+      "formato": "trend-audio",
+      "gancho": "Se eu aceito plantão de Natal? Aceito tudo!",
+      "views": 17976,
+      "likes": 586,
+      "comentarios": 6,
+      "data": "2026-11-12",
+      "seguidores": 318128,
+      "compartilhamentos": null,
+      "outlier_score": 15.18,
+      "resumo": "Humor de identidade do plantonista para vender a Black November: 17.976 views, outlier 15,2x. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DemDxeAhLRE/",
+      "perfil": "@medgrupo",
+      "rede": "instagram",
+      "formato": "entrevista-podcast",
+      "gancho": "Dois novos temas acabam de chegar no No Papo!",
+      "views": 230960,
+      "likes": 2553,
+      "comentarios": 347,
+      "data": "2026-10-17",
+      "seguidores": 228720,
+      "compartilhamentos": null,
+      "outlier_score": 19.46,
+      "resumo": "Maior reel do lote: 230.960 views e 347 comentários com CTA de palavra-chave ('Comente NO PAPO'). Formato inferido pela legenda."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfF6n5zjvqV/",
+      "perfil": "@medgrupo",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Ainda está em dúvida sobre qual especialidade médica seguir?",
+      "views": 61613,
+      "likes": 746,
+      "comentarios": 79,
+      "data": "2026-10-29",
+      "seguidores": 228720,
+      "compartilhamentos": null,
+      "outlier_score": 5.54,
+      "resumo": "Escolha de especialidade + CTA de palavra-chave ('Comente MEDEspecialidades'): 61.613 views, 79 comentários. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DdRIavTBS8F/",
+      "perfil": "@hardworkmedicina",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Da Live das Lives para a prova",
+      "views": 128563,
+      "likes": 5302,
+      "comentarios": 177,
+      "data": "2026-09-14",
+      "seguidores": 98212,
+      "compartilhamentos": null,
+      "outlier_score": 16.04,
+      "resumo": "Professor comentando questão polêmica de prova: 128.563 views, 5.302 likes, outlier 16x. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DdZPgCDxM2r/",
+      "perfil": "@hardworkmedicina",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Só existe UMA medicina.",
+      "views": 37971,
+      "likes": 1534,
+      "comentarios": 49,
+      "data": "2026-09-17",
+      "seguidores": 98212,
+      "compartilhamentos": null,
+      "outlier_score": 4.64,
+      "resumo": "Opinião forte de professor sobre a prova: 37.971 views, 1.534 likes, outlier 4,6x. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfLGCJPiiGg/",
+      "perfil": "@medcel",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Fazer Cardiologia vale a pena?",
+      "views": 4316,
+      "likes": 154,
+      "comentarios": 26,
+      "data": "2026-10-31",
+      "seguidores": 135984,
+      "compartilhamentos": null,
+      "outlier_score": 8.37,
+      "resumo": "Rotina e carreira de especialidade contada por médico: 4.316 views, 26 comentários, outlier 8,4x no perfil. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfZjnokBKbG/",
+      "perfil": "@medcel",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "A eterna disputa entre GO e cirurgia",
+      "views": 5462,
+      "likes": 48,
+      "comentarios": 0,
+      "data": "2026-11-06",
+      "seguidores": 135984,
+      "compartilhamentos": null,
+      "outlier_score": 2.23,
+      "resumo": "Humor de estudantes sobre cirurgia x GO: 5.462 views, mas 0 comentários. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfj27rAAsYu/",
+      "perfil": "@medcel",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Apendicite aguda: a nova diretriz de Jerusalém",
+      "views": 932,
+      "likes": 11,
+      "comentarios": 0,
+      "data": "2026-11-10",
+      "seguidores": 135984,
+      "compartilhamentos": null,
+      "outlier_score": 0.51,
+      "resumo": "Conteúdo técnico de cirurgia (diretriz) performou abaixo do perfil: 932 views, outlier 0,5x. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dfmzs2bTtS4/",
+      "perfil": "@grupomedcof",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Você sabe quando um paciente com obstrução arterial precisa de cirurgia?",
+      "views": 4824,
+      "likes": 16,
+      "comentarios": 0,
+      "data": "2026-11-12",
+      "seguidores": 370334,
+      "compartilhamentos": null,
+      "outlier_score": 0.12,
+      "resumo": "Pergunta técnica de cirurgia vascular: 4.824 views, 16 likes, 0 comentários, outlier 0,1x. Técnico puro sem situação de rotina não engajou. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/p/Dfk2NRKkUJR/",
+      "perfil": "@estrategiamed",
+      "rede": "instagram",
+      "formato": "carrossel",
+      "gancho": "Questão de Cirurgia: você acertaria essa conduta de emergência?",
+      "views": null,
+      "likes": 48,
+      "comentarios": 2,
+      "data": "2026-11-10",
+      "seguidores": 318128,
+      "compartilhamentos": null,
+      "outlier_score": 1.28,
+      "resumo": "Questão de prova de cirurgia em carrossel: 48 likes, 2 comentários, outlier 1,3x. Fraco para um perfil de 318 mil."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfYA3FuBXG_/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Resolução de obstetrícia sobre sangramento no 3º trimestre",
+      "views": 1597,
+      "likes": 18,
+      "comentarios": 0,
+      "data": "2026-11-05",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 1.12,
+      "resumo": "Resolução de questão no Safe Internato: 1.597 views, 0 comentários. Confirma o 'evitar' do perfil. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/p/DejgqExkUTk/",
+      "perfil": "@safeinternato",
+      "rede": "instagram",
+      "formato": "carrossel",
+      "gancho": "ENAMED EXIGIDO PARA REGISTRO NO CRM!",
+      "views": null,
+      "likes": 293,
+      "comentarios": 16,
+      "data": "2026-10-16",
+      "seguidores": 5598,
+      "compartilhamentos": null,
+      "outlier_score": 19.31,
+      "resumo": "Maior outlier do Safe Internato (19,3x em interações): 293 likes, 16 comentários. Notícia regulatória em carrossel."
+    }
+  ],
+  "roteiros": [
+    {
+      "titulo": "3 coisas que o cirurgião de plantão quer ouvir quando você passa o caso",
+      "formato": "talking-head",
+      "duracao_s": 38,
+      "objetivo": "autoridade",
+      "plataforma": "instagram",
+      "gancho": "Três coisas que o cirurgião de plantão quer ouvir quando você passa o caso.",
+      "ganchos_alternativos": [
+        "Você liga pro cirurgião de plantão e trava. Faz assim.",
+        "O cirurgião desliga na tua cara? Talvez seja o jeito que você passa o caso."
+      ],
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Plano médio, polo preta Medsafe, fundo com painel Medsafe, celular na mão como se fosse ligar",
+          "fala": "Três coisas que o cirurgião de plantão quer ouvir quando você passa o caso.",
+          "texto_tela": "COMO PASSAR O CASO PARA O CIRURGIÃO"
+        },
+        {
+          "tempo": "3-12s",
+          "visual": "Levanta 1 dedo, zoom leve",
+          "fala": "Primeira: começa pelo que importa. Idade, queixa principal e há quanto tempo começou. Sem rodeio.",
+          "texto_tela": "1. Idade, queixa e tempo"
+        },
+        {
+          "tempo": "12-22s",
+          "visual": "Levanta 2 dedos, gesto de palpar o abdome",
+          "fala": "Segunda: sinais vitais e o que você achou no exame do abdome. Com as tuas mãos, não só o que estava escrito na ficha.",
+          "texto_tela": "2. Sinais vitais + exame do abdome"
+        },
+        {
+          "tempo": "22-32s",
+          "visual": "Levanta 3 dedos, se aproxima da câmera",
+          "fala": "Terceira, e essa separa o interno que é chamado pra sala: diz o que você acha que é e o que já pediu. Pode errar. Mas chega com uma hipótese.",
+          "texto_tela": "3. Sua hipótese + o que já pediu"
+        },
+        {
+          "tempo": "32-38s",
+          "visual": "Volta ao plano médio, tom calmo",
+          "fala": "Caso bem passado é paciente mais seguro. Salva esse vídeo e segue o Safe Internato pra próxima.",
+          "texto_tela": "Salve e siga @safeinternato"
+        }
+      ],
+      "cta": "Salva esse vídeo e segue o Safe Internato pra próxima.",
+      "legenda": "Passar o caso para o cirurgião de plantão não precisa ser motivo de aperreio. Comece por idade, queixa e tempo de evolução. Traga sinais vitais e o exame do abdome feito por você. E chegue com uma hipótese e o que já pediu.\n\nQual parte da passagem de caso mais te trava no plantão? Conta aqui embaixo.\n\nSalve para o próximo plantão e siga o Safe Internato.",
+      "hashtags": [
+        "#SafeInternato",
+        "#InternatoMedico",
+        "#CirurgiaGeral",
+        "#PlantaoMedico",
+        "#Medicina",
+        "#ResidenciaMedica"
+      ],
+      "audio": "voz original (clone)",
+      "referencia_url": "https://www.instagram.com/reel/Dfk5mtvBeiO/",
+      "alertas": [
+        "Roteiro sem número clínico. A estrutura de passagem de caso é orientação geral: revisar com o Dr. Antônio se ele prefere um método específico (ex.: SBAR).",
+        "Se quiser trocar o CTA por um produto (imersão/curso Medsafe) ou por palavra-chave no comentário, confirmar antes que a oferta existe e está aberta."
+      ],
+      "avatar": null
+    },
+    {
+      "titulo": "Véspera do rodízio de cirurgia: 3 coisas pra fazer hoje à noite",
+      "formato": "talking-head",
+      "duracao_s": 38,
+      "objetivo": "alcance",
+      "plataforma": "instagram",
+      "gancho": "Amanhã você começa o rodízio de cirurgia? Faz essas três coisas hoje à noite.",
+      "ganchos_alternativos": [
+        "Primeiro dia na cirurgia amanhã? Assiste isso antes de dormir."
+      ],
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Plano médio, polo Medsafe, porta-agulha ou fio de sutura na mão",
+          "fala": "Amanhã você começa o rodízio de cirurgia? Faz essas três coisas hoje à noite.",
+          "texto_tela": "VÉSPERA DO RODÍZIO DE CIRURGIA"
+        },
+        {
+          "tempo": "3-13s",
+          "visual": "Levanta 1 dedo",
+          "fala": "Primeira: descobre quais cirurgias estão no mapa e lê o básico de cada uma. Indicação, posição do paciente e os passos principais.",
+          "texto_tela": "1. Leia o mapa cirúrgico"
+        },
+        {
+          "tempo": "13-21s",
+          "visual": "Levanta 2 dedos, aponta para o próprio abdome",
+          "fala": "Segunda: revisa a anatomia da região. É isso que o cirurgião costuma perguntar no meio da cirurgia.",
+          "texto_tela": "2. Revise a anatomia"
+        },
+        {
+          "tempo": "21-31s",
+          "visual": "Mostra o fio e faz o gesto do nó",
+          "fala": "Terceira: treina o nó em casa, no pé da cadeira mesmo. Se te chamarem pra dar um ponto, tua mão já sabe o caminho.",
+          "texto_tela": "3. Treine o nó em casa"
+        },
+        {
+          "tempo": "31-38s",
+          "visual": "Volta ao plano médio",
+          "fala": "Chegar preparado tira metade do aperreio. Segue o Safe Internato pra não chegar no rodízio no escuro.",
+          "texto_tela": "Siga @safeinternato"
+        }
+      ],
+      "cta": "Segue o Safe Internato pra não chegar no rodízio no escuro.",
+      "legenda": "Primeiro dia no rodízio de cirurgia? Leia o mapa cirúrgico, revise a anatomia da região e treine o nó em casa. Chegar preparado muda o jeito que a equipe te enxerga.\n\nMarque o colega que começa a cirurgia esta semana.",
+      "hashtags": [
+        "#SafeInternato",
+        "#InternatoMedico",
+        "#CirurgiaGeral",
+        "#CentroCirurgico",
+        "#Medicina"
+      ],
+      "audio": "voz original (clone)",
+      "referencia_url": "https://www.instagram.com/reel/Dfk7hXhvq2r/",
+      "alertas": [
+        "Se quiser trocar o CTA por um produto (imersão/curso Medsafe) ou por palavra-chave no comentário, confirmar antes que a oferta existe e está aberta."
+      ],
+      "avatar": null
+    },
+    {
+      "titulo": "Cirurgião só grita? O que muda o jeito que a equipe te trata",
+      "formato": "talking-head",
+      "duracao_s": 37,
+      "objetivo": "engajamento",
+      "plataforma": "instagram",
+      "gancho": "Dizem que cirurgião só grita e não ensina. Deixa eu te contar o que tem por trás disso.",
+      "cenas": [
+        {
+          "tempo": "0-4s",
+          "visual": "Plano médio, polo Medsafe, leve sorriso",
+          "fala": "Dizem que cirurgião só grita e não ensina. Deixa eu te contar o que tem por trás disso.",
+          "texto_tela": "CIRURGIÃO SÓ GRITA?"
+        },
+        {
+          "tempo": "4-14s",
+          "visual": "Tom sério, plano mais fechado",
+          "fala": "No centro cirúrgico o tempo é curto e o paciente está aberto na mesa. Quando a fala sai seca, quase sempre o motivo é a segurança dele.",
+          "texto_tela": "O motivo quase sempre é segurança"
+        },
+        {
+          "tempo": "14-28s",
+          "visual": "Conta nos dedos",
+          "fala": "O que muda o jeito que a equipe te trata? Chegar no horário, se apresentar pra enfermagem, perguntar antes de tocar em qualquer coisa e saber o caso do paciente.",
+          "texto_tela": "Horário · Enfermagem · Pergunte antes · Saiba o caso"
+        },
+        {
+          "tempo": "28-37s",
+          "visual": "Volta ao plano médio",
+          "fala": "O interno que faz isso é chamado pra ajudar. E tu, já levou um grito na sala? Conta aqui embaixo e segue o Safe Internato.",
+          "texto_tela": "Já levou um grito na sala? Comente"
+        }
+      ],
+      "cta": "Já levou um grito na sala? Conta aqui embaixo e segue o Safe Internato.",
+      "legenda": "Cirurgião só grita? No centro cirúrgico a fala seca quase sempre tem a ver com a segurança do paciente. O que muda o jeito que a equipe te trata: chegar no horário, se apresentar para a enfermagem, perguntar antes de tocar em qualquer coisa e saber o caso.\n\nJá levou um grito na sala? Conta aqui.",
+      "hashtags": [
+        "#SafeInternato",
+        "#InternatoMedico",
+        "#CirurgiaGeral",
+        "#CentroCirurgico",
+        "#VidaDeInterno"
+      ],
+      "audio": "voz original (clone)",
+      "referencia_url": "https://www.instagram.com/reel/DdZPgCDxM2r/",
+      "alertas": [
+        "Tema encosta no roteiro '3 erros que fazem o cirurgião te tirar do campo' da série anterior: manter o foco na relação com a equipe e não repetir os erros de campo."
+      ],
+      "avatar": null
+    }
+  ],
+  "perfis": [
+    {
+      "username": "safeinternato",
+      "nome": "Safe Internato",
+      "seguidores": 5598,
+      "bio": "• Medicina de Alta Performance.\n• Tudo em um só lugar para o interno. \n• Prática médica segura, humana e tecnológica.",
+      "engajamento_mediano": 0.00286,
+      "mediana_interacoes": 16.0,
+      "posts_por_semana": 4.2,
+      "mix_formatos": {
+        "reels": 0.7,
+        "carrossel": 0.3
+      },
+      "posts_analisados": 30
+    },
+    {
+      "username": "medcel",
+      "nome": "Medcel Residência Médica",
+      "seguidores": 135984,
+      "bio": "A Residência Médica é seu Plano A com a Medcel ⚡\nAprova Friday com até 50% OFF nos cursos + Bônus\nMatricule-se e concorra a um Carro Elétrico 🚙",
+      "engajamento_mediano": 0.00016,
+      "mediana_interacoes": 21.5,
+      "posts_por_semana": 16.2,
+      "mix_formatos": {
+        "reels": 0.73,
+        "imagem": 0.1,
+        "carrossel": 0.17
+      },
+      "posts_analisados": 30
+    },
+    {
+      "username": "estrategiamed",
+      "nome": "Estratégia MED",
+      "seguidores": 318129,
+      "bio": "🔥 LOTE 01 DA BLACK NOVEMBER!\n🦉 Até 55% OFF na sua preparação\n⏳ Válido até 25/11, às 23h59\n👇 Garanta sua vaga:",
+      "engajamento_mediano": 0.00012,
+      "mediana_interacoes": 39.0,
+      "posts_por_semana": 70.0,
+      "mix_formatos": {
+        "reels": 0.47,
+        "imagem": 0.23,
+        "carrossel": 0.3
+      },
+      "posts_analisados": 30
+    }
+  ]
+}

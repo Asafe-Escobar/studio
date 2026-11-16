@@ -1,0 +1,365 @@
+{
+  "id": "2026-11-13-podcast",
+  "tipo": "cortes",
+  "origem": "ia",
+  "status": "renderizando",
+  "titulo": "LIVE - DESAFIOS DO MÉDICO RECÉM FORMADO",
+  "criado_em": "2026-11-13T12:27:02Z",
+  "fonte": {
+    "url": "https://www.youtube.com/watch?v=UUOI2T5C9Vo",
+    "arquivo": "midia/2026-11-13-podcast/original.mp4",
+    "duracao_s": 3870.0
+  },
+  "resumo": "Live com três médicos de emergência e cirurgia sobre os desafios do recém-formado: primeiro plantão, escolha de local de trabalho, comunicação, medo da judicialização e vida pessoal. Mistura histórias emocionantes de pacientes com conselhos práticos para internos e recém-formados.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "Nem sempre curar, mas sempre acolher",
+      "inicio": "00:45:44.4",
+      "fim": "00:46:55.0",
+      "duracao_s": 70.6,
+      "gancho": "E aí eu acompanhei todo o caso.",
+      "por_que": "Virada emocional forte: a família agradece chorando mesmo sem a cura. Frase final citável e tema universal de humanização.",
+      "nota": 9.0,
+      "formato": "entrevista-podcast",
+      "legenda": "O paciente morreu e a família saiu agradecendo ao médico.\nEle explicou a morte cefálica e cada etapa do protocolo, do começo ao fim.\nNo final, o familiar chorou e disse que ficou feliz por ter sido ele o médico.\n\"Nem sempre a gente vai poder curar, mas dá para tratar as pessoas da melhor forma possível.\"\n\nJá viveu algo assim no plantão? Conta aqui nos comentários.\nSalva este vídeo e assiste a live completa no canal.",
+      "hashtags": [
+        "#medicina",
+        "#medicoresidente",
+        "#emergencia",
+        "#comunicacaomedica",
+        "#recemformado"
+      ],
+      "mercado": {
+        "padrao": "Conteúdo emocional sobre a vida e a humanidade do médico, na linha dos posts de cuidado e presença do @dr.marcelomaia",
+        "referencia_url": "https://www.instagram.com/reel/Dff4E_uN5uM/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Não curei e a família me agradeceu chorando",
+        "destaques": [
+          "morte encefálica",
+          "família",
+          "agradecer chorando",
+          "acolheu",
+          "curar",
+          "tratar"
+        ],
+        "enfases": [
+          "00:45:57.2",
+          "00:46:06.0",
+          "00:46:12.6",
+          "00:46:49.4"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Nem sempre curar, sempre acolher"
+    },
+    {
+      "n": 2,
+      "titulo": "Mensagem do professor: você salvou meu barbeiro",
+      "inicio": "00:42:58.0",
+      "fim": "00:44:12.1",
+      "duracao_s": 74.1,
+      "gancho": "Cara, eu lembro, foi, acho que eu tinha um ano de formado.",
+      "por_que": "História com suspense (mensagem do professor), virada positiva e final gratificante. Mostra por que vale a pena ser médico.",
+      "nota": 8.6,
+      "formato": "entrevista-podcast",
+      "legenda": "Um dia depois do plantão, o professor mandou mensagem no WhatsApp.\nO paciente tinha chegado com sepse de foco urinário e evoluiu para choque séptico.\nEle foi compensado com droga vasoativa e seguiu para outro hospital.\nA mensagem era para agradecer: o paciente era o barbeiro do professor e estava bem.\n\nQual foi o elogio que mais marcou a sua carreira? Comenta aqui.\nA live completa está no canal.",
+      "hashtags": [
+        "#medicina",
+        "#choqueseptico",
+        "#sepse",
+        "#medicoformado",
+        "#plantaomedico"
+      ],
+      "mercado": {
+        "padrao": "História inusitada de atendimento médico com desfecho emocional",
+        "referencia_url": "https://www.instagram.com/reel/DfiWbeJiYIY/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "O professor mandou mensagem: parabéns pelo meu barbeiro",
+        "destaques": [
+          "choque séptico",
+          "WhatsApp",
+          "barbeiro",
+          "diálise",
+          "agradecer",
+          "gratificante"
+        ],
+        "enfases": [
+          "00:43:42.2",
+          "00:43:53.9",
+          "00:44:00.1",
+          "00:44:39.0"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Você atendeu o barbeiro do professor"
+    },
+    {
+      "n": 3,
+      "titulo": "Meu primeiro plantão foi o maior caos",
+      "inicio": "00:04:52.6",
+      "fim": "00:05:37.8",
+      "duracao_s": 45.2,
+      "gancho": "É, cara, meu primeiro plantão foi assim o o caos, o maior caos que podia ter dentro do hospital, né?",
+      "por_que": "História pessoal com virada: PCR e declaração de óbito logo no primeiro plantão. Universal para qualquer estudante de medicina, com tensão e final marcante.",
+      "nota": 8.4,
+      "formato": "entrevista-podcast",
+      "legenda": "Primeiro plantão, uma PCR, e a cabeça travou.\nO médico estava de dupla com a esposa, que hoje é esposa dele mesmo.\nO que ajudou foi a equipe do lado e lembrar do que já sabia.\nE ainda precisou fazer uma DO logo de cara.\n\nComo foi o seu primeiro plantão? Conta nos comentários.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#primeiroplantao",
+        "#medicina",
+        "#pcr",
+        "#internato",
+        "#recemformado"
+      ],
+      "mercado": {
+        "padrao": "Relato pessoal e vulnerável da rotina médica, parecido com os posts de histórias inusitadas da prática médica",
+        "referencia_url": "https://www.instagram.com/reel/DfiWbeJiYIY/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Minha primeira PCR foi no primeiro plantão",
+        "destaques": [
+          "caos",
+          "PCR",
+          "primeiro plantão",
+          "esposa",
+          "DO",
+          "travou"
+        ],
+        "enfases": [
+          "00:04:52.6",
+          "00:05:10.4",
+          "00:05:17.6",
+          "00:05:32.6"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Meu primeiro plantão foi o caos"
+    },
+    {
+      "n": 4,
+      "titulo": "Plantão não é lugar de testar habilidade",
+      "inicio": "00:15:00.2",
+      "fim": "00:16:11.7",
+      "duracao_s": 71.5,
+      "gancho": "Então, quando aparece uma proposta de plantão em um serviço que eu não conheço, o que que eu preciso perguntar antes de aceitar?",
+      "por_que": "Conselho prático em formato de pergunta direta, com checklist (perfil do paciente, retaguarda, estrutura) e frase de efeito. Muito salvável por recém-formados.",
+      "nota": 8.3,
+      "formato": "entrevista-podcast",
+      "legenda": "Antes de aceitar plantão em lugar novo, faça estas perguntas.\nTem retaguarda de quê? Com quais especialidades você pode contar?\nTem atendimento pediátrico e de gestante? Quem é o responsável?\nE a estrutura mínima: monitor, laringoscópio, material de intubação, ventilador.\n\"Plantão não é lugar de testar habilidade.\"\n\nQual pergunta você acrescentaria? Comenta aqui e salva para a próxima proposta.\nLive completa no canal.",
+      "hashtags": [
+        "#plantaomedico",
+        "#medicina",
+        "#recemformado",
+        "#emergenciamedica",
+        "#carreiramedica"
+      ],
+      "mercado": {
+        "padrao": "Dica de carreira para quem está escolhendo caminho, na linha do post de dúvida sobre qual especialidade seguir do @medgrupo",
+        "referencia_url": "https://www.instagram.com/reel/DfF6n5zjvqV/",
+        "alinhamento": 8
+      },
+      "edicao": {
+        "gancho_tela": "O que perguntar antes de aceitar um plantão",
+        "destaques": [
+          "perfil do paciente",
+          "retaguarda",
+          "estrutura mínima",
+          "plantão",
+          "pior",
+          "habilidades"
+        ],
+        "enfases": [
+          "00:15:10.0",
+          "00:15:31.6",
+          "00:15:55.6",
+          "00:16:08.4"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Antes de aceitar um plantão"
+    },
+    {
+      "n": 5,
+      "titulo": "Se o médico não registra, ele se expõe",
+      "inicio": "00:40:02.3",
+      "fim": "00:41:19.5",
+      "duracao_s": 77.2,
+      "gancho": "É, eu confesso que é uma coisa que me incomoda um pouco, né?",
+      "por_que": "Tema atual e polêmico (judicialização da medicina) com conselho prático claro: registrar tudo em prontuário. Conecta com o interesse do nicho em mudanças que afetam a formação e a prática médica.",
+      "nota": 8.0,
+      "formato": "entrevista-podcast",
+      "legenda": "Registre tudo em prontuário. Tudo.\nQualquer orientação ou prescrição, por menor que seja.\nRegistre que foi conversado com a família e com o paciente.\nE se baseie na literatura para deixar a evolução mais criteriosa.\n\nO que você passou a registrar depois que a judicialização ficou mais comum? Comenta aqui.\nSalva para lembrar no próximo plantão. Live completa no canal.",
+      "hashtags": [
+        "#prontuario",
+        "#medicina",
+        "#judicializacao",
+        "#recemformado",
+        "#medicinabaseadaemevidencia"
+      ],
+      "mercado": {
+        "padrao": "Pauta de mudanças na prática e formação médica, na linha do post sobre a lei do ENAMED",
+        "referencia_url": "https://www.instagram.com/p/Dfac0Uanxit/",
+        "alinhamento": 6
+      },
+      "edicao": {
+        "gancho_tela": "Registre TUDO no prontuário",
+        "destaques": [
+          "judicialização",
+          "prontuário",
+          "registrem tudo",
+          "se resguardar",
+          "evidência",
+          "conduta"
+        ],
+        "enfases": [
+          "00:40:29.5",
+          "00:40:31.5",
+          "00:40:48.6",
+          "00:41:11.9"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Registre tudo no prontuário"
+    },
+    {
+      "n": 6,
+      "titulo": "Não tenha medo, mas não seja arrogante",
+      "inicio": "01:03:03.0",
+      "fim": "01:04:00.2",
+      "duracao_s": 57.2,
+      "gancho": "E terminaria dizendo, né, com a frase que é a mais citada nos textos bíblicos das religiões mais populares no mundo.",
+      "por_que": "Mensagem final citável e inspiradora, com a distinção clara entre perder o medo e perder o juízo. Fecha bem e é compartilhável.",
+      "nota": 7.8,
+      "formato": "entrevista-podcast",
+      "legenda": "A frase mais citada nos textos bíblicos serve para o plantão: não tenha medo.\nConfie no que você estudou.\nNão tenha medo de perguntar, de falar com o colega, de falar com a enfermagem.\nE não tenha medo de esperar um pouco antes de dar alta ou de complementar a investigação.\nMas medo a menos não é arrogância, e juízo continua sendo obrigatório.\n\nQual foi o maior medo do seu início? Conta nos comentários.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#medicina",
+        "#recemformado",
+        "#plantaomedico",
+        "#medicoresidente",
+        "#carreiramedica"
+      ],
+      "mercado": {
+        "padrao": "Mensagem pessoal e reflexiva sobre carreira e vida do médico",
+        "referencia_url": "https://www.instagram.com/reel/DdAZ57sNok0/",
+        "alinhamento": 6
+      },
+      "edicao": {
+        "gancho_tela": "A frase mais citada da Bíblia vale no plantão",
+        "destaques": [
+          "não tenha medo",
+          "confie",
+          "perguntar",
+          "arrogante",
+          "juízo",
+          "enfermagem"
+        ],
+        "enfases": [
+          "01:03:14.9",
+          "01:03:19.8",
+          "01:03:27.1",
+          "01:03:36.8"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Não tenha medo no plantão"
+    },
+    {
+      "n": 7,
+      "titulo": "Eu me arrependo de não ter visto a porta",
+      "inicio": "00:23:34.8",
+      "fim": "00:24:23.1",
+      "duracao_s": 48.3,
+      "gancho": "Se você sabe que você vai trabalhar em tal setor, tenha experiência nesse setor.",
+      "por_que": "Confissão honesta e dica prática: sala vermelha e porta têm lógicas opostas. Útil para internos que querem escolher estágios.",
+      "nota": 7.6,
+      "formato": "entrevista-podcast",
+      "legenda": "3000 horas de estágio e quase nenhuma na porta do pronto-socorro.\nA bagagem era de sala vermelha, onde só dá alta sem sinal de gravidade.\nNa porta é o contrário: só entra quem tem sinal de gravidade.\nO resultado: tempo demais com anamnese e exame físico completos em paciente azul.\n\nVocê se identifica com a sala vermelha ou com a porta? Comenta aqui.\nLive completa no canal.",
+      "hashtags": [
+        "#salavermelha",
+        "#prontosocorro",
+        "#medicina",
+        "#internato",
+        "#emergencia"
+      ],
+      "mercado": {
+        "padrao": "Dica de carreira e escolha de especialidade/área de atuação",
+        "referencia_url": "https://www.instagram.com/reel/DfF6n5zjvqV/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "3000 horas de estágio e faltou isso",
+        "destaques": [
+          "3000 horas",
+          "sala vermelha",
+          "porta",
+          "gravidade",
+          "arrependo",
+          "experiência"
+        ],
+        "enfases": [
+          "00:23:40.4",
+          "00:23:51.8",
+          "00:23:54.0",
+          "00:24:00.2"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Sala vermelha não é porta"
+    },
+    {
+      "n": 8,
+      "titulo": "Plantão no interior ou na capital?",
+      "inicio": "00:52:47.6",
+      "fim": "00:54:01.7",
+      "duracao_s": 74.1,
+      "gancho": "É, eu acho que eu diria, primeiramente, né, sempre olhar perfil do paciente, perfil do local.",
+      "por_que": "Dilema real e comum de quem se forma, com prós e contras concretos (estrutura, pagamento, receptividade). Gera comentário e debate.",
+      "nota": 7.4,
+      "formato": "entrevista-podcast",
+      "legenda": "Plantão no interior ou na capital? Depende do perfil do local.\nNo interior, geralmente paga um pouco melhor e a equipe recebe bem.\nMas teve plantão sem bomba de infusão, e ele não quis continuar.\nNa capital, tem centro cirúrgico, UTI e mais segurança.\n\nQual você escolheria e por quê? Comenta aqui.\nSalva para quando for decidir. Live completa no canal.",
+      "hashtags": [
+        "#plantaomedico",
+        "#medicina",
+        "#interiorxcapital",
+        "#recemformado",
+        "#carreiramedica"
+      ],
+      "mercado": {
+        "padrao": "Dilema de carreira e escolha de caminho profissional",
+        "referencia_url": "https://www.instagram.com/reel/DfF6n5zjvqV/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Interior ou capital: onde dar plantão?",
+        "destaques": [
+          "interior",
+          "capital",
+          "infraestrutura",
+          "paga melhor",
+          "receptividade",
+          "bomba de infusão"
+        ],
+        "enfases": [
+          "00:52:56.8",
+          "00:53:06.0",
+          "00:53:25.4",
+          "00:54:07.6"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Interior ou capital?"
+    }
+  ],
+  "roteiros": [],
+  "mercado": {
+    "nicho": "carreira medica e vida do medico recem f",
+    "pesquisa_id": "2026-11-13-carreira-medica-e-vida-do-medico-recem-f"
+  }
+}

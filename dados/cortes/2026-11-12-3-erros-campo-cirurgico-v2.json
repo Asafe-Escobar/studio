@@ -1,0 +1,122 @@
+{
+  "id": "2026-11-12-3-erros-campo-cirurgico-v2",
+  "tipo": "cortes",
+  "origem": "edicao",
+  "titulo": "3 erros que te tiram do campo cirúrgico",
+  "criado_em": "2026-11-12T15:31:57Z",
+  "fonte": {
+    "url": null,
+    "arquivo": "midia/2026-11-12-3-erros-campo-cirurgico-v2/original.mp4",
+    "duracao_s": 39.7
+  },
+  "resumo": "Edição pelo pedido: Vídeo inteiro mantido, com legenda no estilo Safe Internato em vermelho, b-roll de apoio sincronizado com a fala e zooms de ênfase nos momentos-chave.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "3 erros que te tiram do campo cirúrgico",
+      "inicio": "00:00:00.0",
+      "fim": "00:00:39.7",
+      "duracao_s": 37.7,
+      "gancho": "Três erros que fazem o cirurgião te tirar do campo no internato, e o",
+      "por_que": "Vídeo inteiro mantido, com legenda no estilo Safe Internato em vermelho, b-roll de apoio sincronizado com a fala e zooms de ênfase nos momentos-chave.",
+      "nota": null,
+      "formato": "talking-head",
+      "legenda": "3 erros que fazem o cirurgião te tirar do campo no internato.\nO terceiro começa antes de entrar na sala.\n\nErro 1: encostar em algo que não é estéril e ficar calado. Contaminou? Avisa na hora e troca. O que ele não perdoa é descobrir depois.\n\nErro 2: pegar instrumento da mesa sem ninguém pedir. A mesa é da instrumentadora. Quer ajudar? Pergunta antes.\n\nErro 3: entrar na sala sem saber qual é a cirurgia nem quem é o paciente. Leu o prontuário antes? Quem conhece o caso é chamado para ajudar.\n\nQual desses erros você já viu acontecer no rodízio? Comenta aqui.\n\nManda para o colega que entra no rodízio de cirurgia e segue o Safe Internato para ver a série completa.",
+      "hashtags": [
+        "#internato",
+        "#medicina",
+        "#campocirurgico",
+        "#centrocirurgico",
+        "#safeinternato"
+      ],
+      "arquivo": "midia/2026-11-12-3-erros-campo-cirurgico-v2/cortes/01.mp4",
+      "trechos": [
+        {
+          "inicio": "00:00:00.0",
+          "fim": "00:00:39.7",
+          "motivo": "O pedido não fala em cortar nada; o vídeo já é curto e cada erro depende do anterior, então fica inteiro."
+        }
+      ],
+      "edicao": {
+        "gancho_tela": "3 erros que te tiram do campo",
+        "destaques": [
+          "estéril",
+          "contaminou",
+          "avisa",
+          "instrumentadora",
+          "pergunta",
+          "prontuário",
+          "erro número 3"
+        ],
+        "enfases": [
+          "00:00:05.9",
+          "00:00:09.7",
+          "00:00:16.6",
+          "00:00:25.4",
+          "00:00:31.3"
+        ],
+        "cor": "#E30613",
+        "estilo": "safe",
+        "broll": [
+          {
+            "t": "00:00:05.9",
+            "dur": 2.0,
+            "tipo": "grafico",
+            "variante": "erro",
+            "rotulo": "ERRO Nº 1",
+            "titulo": "Encostar em algo não estéril"
+          },
+          {
+            "t": "00:00:10.6",
+            "dur": 2.4,
+            "tipo": "estoque",
+            "busca": "surgeon scrubbing hands, operating room lights",
+            "titulo": "Avise e troque na hora"
+          },
+          {
+            "t": "00:00:16.6",
+            "dur": 2.0,
+            "tipo": "grafico",
+            "variante": "erro",
+            "rotulo": "ERRO Nº 2",
+            "titulo": "Pegar instrumento sem pedir"
+          },
+          {
+            "t": "00:00:20.3",
+            "dur": 2.4,
+            "tipo": "estoque",
+            "busca": "surgical instruments tray, sterile table",
+            "titulo": "A mesa é da instrumentadora"
+          },
+          {
+            "t": "00:00:25.4",
+            "dur": 2.0,
+            "tipo": "grafico",
+            "variante": "erro",
+            "rotulo": "ERRO Nº 3",
+            "titulo": "Entrar sem saber o caso"
+          },
+          {
+            "t": "00:00:31.3",
+            "dur": 2.2,
+            "tipo": "estoque",
+            "busca": "doctor reading medical chart, hospital corridor",
+            "titulo": "Leia o prontuário antes"
+          }
+        ]
+      },
+      "titulo_capa": "3 erros que te tiram do campo",
+      "motor": "remotion",
+      "creditos_broll": []
+    }
+  ],
+  "roteiros": [],
+  "pedido_edicao": {
+    "texto": "eu quero que a legenda seja no estilo do safe internato, a cor do safe internato é vermelha, quero tbm o fundo interativo, com videos passando de acordo com a fala, trabalhe na parte de zoom e etc",
+    "resumo": "Vídeo inteiro mantido, com legenda no estilo Safe Internato em vermelho, b-roll de apoio sincronizado com a fala e zooms de ênfase nos momentos-chave.",
+    "nao_feito": [
+      "Música de fundo não aplicada: a biblioteca está vazia e não dá para gerar música aqui.",
+      "O B-roll do erro 1 usa gráfico, não imagem de estoque, para evitar mostrar contaminação real de forma explícita."
+    ]
+  }
+}

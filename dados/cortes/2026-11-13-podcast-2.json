@@ -1,0 +1,365 @@
+{
+  "id": "2026-11-13-podcast-2",
+  "tipo": "cortes",
+  "origem": "ia",
+  "status": "renderizando",
+  "titulo": "SAFE IA PODCAST | Hardware e Software: A Tecnologia por Trás da Inteligência Artificial 🤖💻",
+  "criado_em": "2026-11-13T13:15:02Z",
+  "fonte": {
+    "url": "https://www.youtube.com/watch?v=oSJyvuv6dgA",
+    "arquivo": "midia/2026-11-13-podcast-2/original.mp4",
+    "duracao_s": 2837.6
+  },
+  "resumo": "Episódio do Safe IA Podcast com Ítalo Martins, engenheiro eletricista e mestrando que programa. Fala de hardware por trás da IA, a crise e o preço da memória RAM, como se treina um modelo, rodar IA local, Mac versus Windows e conselhos para quem quer entrar em tecnologia.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "Por que memória RAM virou uma facada",
+      "inicio": "00:07:27.9",
+      "fim": "00:08:33.1",
+      "duracao_s": 64.5,
+      "gancho": "Mas cara, falando sobre a, né, falando aí que tu mexe muito com hardware e eu vejo que tá tendo um efeito colateral muito grande",
+      "por_que": "Tema universal e atual: IA encareceu a RAM e qualquer pessoa que já tentou montar PC se identifica. Replica as notícias de hardware que performam no nicho.",
+      "nota": 8.2,
+      "formato": "entrevista-podcast",
+      "legenda": "Memória RAM virou uma facada, e a culpa é da IA\nA DDR5 tá um absurdo hoje em dia, justamente pela demanda da IA.\nO Ítalo mexe com hardware e conta como isso pesa quando você vai montar ou atualizar o PC.\nE nem sempre a IA mais forte serve, porque muita gente trabalha com hardware limitado.\nQuanto você pagaria hoje por uma memória RAM? Comenta o valor.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#inteligenciaartificial",
+        "#hardware",
+        "#memoriaram",
+        "#ddr5",
+        "#pcgamer"
+      ],
+      "mercado": {
+        "padrao": "Notícia de hardware e IA impactando o mercado (RAM, Nvidia)",
+        "referencia_url": "https://www.instagram.com/p/DfkHj73Fy2T/",
+        "alinhamento": 9
+      },
+      "edicao": {
+        "gancho_tela": "A IA deixou a memória RAM absurdamente cara",
+        "destaques": [
+          "memória RAM",
+          "facada",
+          "DDR5",
+          "demanda da IA",
+          "hardware"
+        ],
+        "enfases": [
+          "00:07:42.7",
+          "00:07:47.2",
+          "00:08:07.9",
+          "00:08:13.6"
+        ]
+      },
+      "arquivo": "midia/2026-11-13-podcast-2/cortes/01.mp4",
+      "titulo_capa": "RAM virou uma facada",
+      "motor": "remotion",
+      "creditos_broll": []
+    },
+    {
+      "n": 2,
+      "titulo": "Como uma IA é treinada, em 1 minuto",
+      "inicio": "00:12:17.0",
+      "fim": "00:13:25.0",
+      "duracao_s": 68.0,
+      "gancho": "O que é que significa treinar IA?",
+      "por_que": "Explicação simples e completa de como treinar um modelo (entrada, erro, pesos, matrizes). Pergunta direta no começo, ideia fecha bem.",
+      "nota": 8.0,
+      "formato": "entrevista-podcast",
+      "legenda": "Treinar uma IA é ajustar uma matriz gigante de números\nVocê apresenta uma entrada, a IA dá uma saída e você compara com a esperada.\nO erro atualiza os pesos, que ligam uma camada à outra.\nNa prática são números numa matriz com várias dimensões.\nJá tinha ouvido falar em pesos da IA? Comenta aqui.\nSalva pra rever e veja o episódio completo.",
+      "hashtags": [
+        "#inteligenciaartificial",
+        "#machinelearning",
+        "#treinamentodeia",
+        "#redesneurais",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Conteúdo educativo de IA e programação explicado de forma direta",
+        "referencia_url": "https://www.instagram.com/p/Da5ZasYnIO6/",
+        "alinhamento": 8
+      },
+      "edicao": {
+        "gancho_tela": "O que significa treinar uma IA?",
+        "destaques": [
+          "treinar IA",
+          "pesos",
+          "matriz gigantesca",
+          "erro",
+          "números"
+        ],
+        "enfases": [
+          "00:12:19.5",
+          "00:12:30.3",
+          "00:12:43.7",
+          "00:12:46.8"
+        ]
+      },
+      "arquivo": "midia/2026-11-13-podcast-2/cortes/02.mp4",
+      "titulo_capa": "Como uma IA é treinada",
+      "motor": "remotion",
+      "creditos_broll": []
+    },
+    {
+      "n": 3,
+      "titulo": "Mac de R$ 60 mil só para planilha",
+      "inicio": "00:36:15.7",
+      "fim": "00:37:06.0",
+      "duracao_s": 50.0,
+      "gancho": "Tem um rapaz aqui, um amigo meu empresário que se ele ver esse corte aqui, ele vai entender que é ele",
+      "por_que": "Humor e opinião sobre marketing da Apple, com história engraçada de um Mac de R$ 60 mil usado só para planilha e notícias. Alto potencial de comentários.",
+      "nota": 7.9,
+      "formato": "entrevista-podcast",
+      "legenda": "Gastou mais de R$ 60 mil num Mac só pra mexer em planilha\nO amigo do Ítalo comprou o mais top da linha da Apple.\nDiz que só abre planilha e vê notícia.\nPara eles, o mérito é do marketing: viu o anúncio, não quer saber, só quer comprar.\nVocê já comprou um aparelho mais pelo marketing do que pela necessidade? Conta nos comentários.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#apple",
+        "#mac",
+        "#marketingdigital",
+        "#tecnologia",
+        "#humor"
+      ],
+      "mercado": {
+        "padrao": "Humor e opinião leve sobre tecnologia e big techs",
+        "referencia_url": "https://www.instagram.com/p/DfdJtWQgYft/",
+        "alinhamento": 6
+      },
+      "edicao": {
+        "gancho_tela": "Gastou R$ 60 mil num Mac para ver notícia",
+        "destaques": [
+          "R$ 60.000",
+          "Mac",
+          "planilha",
+          "marketing",
+          "Apple"
+        ],
+        "enfases": [
+          "00:36:22.2",
+          "00:36:28.3",
+          "00:36:40.3",
+          "00:36:47.8"
+        ]
+      },
+      "arquivo": "midia/2026-11-13-podcast-2/cortes/03.mp4",
+      "titulo_capa": "Mac de R$ 60 mil p/ planilha",
+      "motor": "remotion",
+      "creditos_broll": []
+    },
+    {
+      "n": 4,
+      "titulo": "Dá para rodar IA no seu computador?",
+      "inicio": "00:13:25.5",
+      "fim": "00:14:40.4",
+      "duracao_s": 73.6,
+      "gancho": "Então, depois que eu treino a IA, que é justamente a parte computacional mais custosa, eu vou estar fazendo multiplicação de matrizes",
+      "por_que": "Explica por que dá para baixar um modelo e rodar local com Llama, mesmo com treino gigantesco. Tema prático que engaja devs e curiosos.",
+      "nota": 7.8,
+      "formato": "entrevista-podcast",
+      "legenda": "Dá pra rodar IA no seu computador, sem depender do chat\nTreinar é a parte mais custosa, com multiplicação de matrizes sem parar.\nDepois, o modelo pronto fica bem menor e mais leve de rodar.\nPor isso dá pra baixar um modelo e rodar com o Llama em casa.\nVocê já rodou uma IA local? Conta qual modelo usou.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#iagenerativa",
+        "#ialocal",
+        "#llama",
+        "#inteligenciaartificial",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Ferramentas e modelos de IA acessíveis para quem programa",
+        "referencia_url": "https://www.instagram.com/p/Dfmyy-_jv1U/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Treinar custa caro, rodar cabe no seu PC",
+        "destaques": [
+          "modelo",
+          "Llama",
+          "computador de casa",
+          "custo computacional",
+          "matrizes"
+        ],
+        "enfases": [
+          "00:13:40.0",
+          "00:14:03.0",
+          "00:14:11.5",
+          "00:14:18.7"
+        ]
+      },
+      "arquivo": "midia/2026-11-13-podcast-2/cortes/04.mp4",
+      "titulo_capa": "Rode IA no seu PC",
+      "motor": "remotion",
+      "creditos_broll": []
+    },
+    {
+      "n": 5,
+      "titulo": "Eu deixei o PC ligado um dia e meio",
+      "inicio": "00:10:30.7",
+      "fim": "00:11:29.6",
+      "duracao_s": 58.9,
+      "gancho": "E a pior fase é quando tu tá treinando uma IA.",
+      "por_que": "História pessoal concreta com número chamativo (um dia e meio de processamento). Mostra o custo real de treinar IA.",
+      "nota": 7.6,
+      "formato": "entrevista-podcast",
+      "legenda": "Deixei o PC ligado um dia e meio só treinando uma IA\nTreinar é extremamente custoso, CPU e GPU trabalhando juntas.\nO Ítalo fez isso na pesquisa dele, pra classificar faltas.\nE também numa empresa em que trabalhou.\nJá deixou o computador ligado horas por causa de um projeto? Comenta quanto tempo.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#inteligenciaartificial",
+        "#engenharia",
+        "#gpu",
+        "#treinamentodeia",
+        "#programacao"
+      ],
+      "mercado": {
+        "padrao": "Bastidores e relato pessoal de quem trabalha com IA e código",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Deixei o PC ligado um dia e meio",
+        "destaques": [
+          "treinar",
+          "um dia e meio",
+          "CPU",
+          "GPU",
+          "processando"
+        ],
+        "enfases": [
+          "00:10:48.0",
+          "00:10:52.8",
+          "00:11:07.3",
+          "00:11:13.3"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "PC ligado um dia e meio"
+    },
+    {
+      "n": 6,
+      "titulo": "Só código funcional não basta",
+      "inicio": "00:43:56.0",
+      "fim": "00:45:08.1",
+      "duracao_s": 72.1,
+      "gancho": "O software ele precisa rodar em algum lugar, então o hardware ele vai ser sempre essencial.",
+      "por_que": "Frase de efeito e conselho final para quem programa: hoje sobra processamento, mas a escassez vem e otimizar será essencial. Fecha bem e conversa com o debate sobre o fim da programação.",
+      "nota": 7.5,
+      "formato": "entrevista-podcast",
+      "legenda": "Só código funcional não basta: o software precisa rodar em alguma coisa\nHoje tem muito poder de processamento sobrando.\nMas vai chegar o momento de escassez de hardware no seu projeto.\nQuem entende o hardware extrai todo o poder da máquina.\nVocê estuda hardware ou só software? Comenta aqui.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#programacao",
+        "#hardware",
+        "#carreiraemti",
+        "#engenharia",
+        "#sistemasembarcados"
+      ],
+      "mercado": {
+        "padrao": "Opinião forte sobre o futuro da programação na era da IA",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 7
+      },
+      "edicao": {
+        "gancho_tela": "Código funcional não basta, tem que otimizar",
+        "destaques": [
+          "software",
+          "hardware",
+          "otimizado",
+          "escassez",
+          "código funcional"
+        ],
+        "enfases": [
+          "00:43:56.0",
+          "00:44:50.9",
+          "00:45:07.8",
+          "00:45:14.0"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Só código não basta"
+    },
+    {
+      "n": 7,
+      "titulo": "Por que Mac roda vídeo melhor que Windows",
+      "inicio": "00:34:11.9",
+      "fim": "00:35:10.9",
+      "duracao_s": 59.0,
+      "gancho": "Aí é uma expertise da Apple.",
+      "por_que": "Explica a vantagem da integração hardware e software da Apple, tema que gera debate entre fãs de Mac e Windows.",
+      "nota": 7.2,
+      "formato": "entrevista-podcast",
+      "legenda": "Por que o Mac roda vídeo melhor que muita máquina Windows\nA Apple faz o hardware e o software juntos.\nEles usam tudo que o hardware tem, porque o software foi pensado pra ele.\nNo Linux dá pra otimizar muito, mas não é a mesma coisa.\nVocê usa Mac, Windows ou Linux? Comenta o motivo.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#mac",
+        "#apple",
+        "#windows",
+        "#linux",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Debate de tecnologia e produtos que gera comentários",
+        "referencia_url": "https://www.instagram.com/p/Dfnlw-an_-R/",
+        "alinhamento": 6
+      },
+      "edicao": {
+        "gancho_tela": "Por que o Mac é melhor para editar vídeo",
+        "destaques": [
+          "Apple",
+          "hardware",
+          "software",
+          "otimizado",
+          "Windows"
+        ],
+        "enfases": [
+          "00:34:22.0",
+          "00:34:23.4",
+          "00:34:35.4",
+          "00:34:41.7"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "Mac vs Windows no vídeo"
+    },
+    {
+      "n": 8,
+      "titulo": "Mac M1 com mais RAM ou M5 mais novo?",
+      "inicio": "00:35:10.9",
+      "fim": "00:36:15.7",
+      "duracao_s": 64.8,
+      "gancho": "Aí vai depender da tua aplicação.",
+      "por_que": "Conselho prático de compra: M1 com mais RAM para edição, M4 ou M5 para IA. Decisão que muita gente enfrenta.",
+      "nota": 7.0,
+      "formato": "entrevista-podcast",
+      "legenda": "M1 com 32 GB de RAM ou M4 com 16? Depende do que você faz\nPra editar vídeo, precisa de muita memória RAM.\nEntão um M1 com 24 ou 32 GB pode compensar mais que um M4 com 12 ou 16.\nPra brincar com IA, o poder de processamento pesa mais e o M4 ou M5 vale.\nQual você compraria? Comenta M1 ou M5.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#macbook",
+        "#applesilicon",
+        "#editordevideo",
+        "#inteligenciaartificial",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Dica prática de tecnologia para decidir compra",
+        "referencia_url": "https://www.instagram.com/p/DfkHj73Fy2T/",
+        "alinhamento": 6
+      },
+      "edicao": {
+        "gancho_tela": "M1 com mais RAM ou M5 mais novo?",
+        "destaques": [
+          "M1",
+          "M4",
+          "M5",
+          "RAM",
+          "inteligência artificial"
+        ],
+        "enfases": [
+          "00:35:31.8",
+          "00:35:38.4",
+          "00:35:49.0",
+          "00:35:58.8"
+        ]
+      },
+      "arquivo": null,
+      "titulo_capa": "M1 com RAM ou M5?"
+    }
+  ],
+  "roteiros": [],
+  "mercado": {
+    "nicho": "inteligencia artificial agentes de ia e ",
+    "pesquisa_id": "2026-11-12-inteligencia-artificial-agentes-de-ia-e-"
+  }
+}

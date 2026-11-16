@@ -1,0 +1,229 @@
+{
+  "id": "2026-11-12-watch-v-x8eq3wz-ldu",
+  "tipo": "cortes",
+  "origem": "ia",
+  "status": "pronto",
+  "titulo": "SAFE IA PODCAST | O Futuro � da IA ou dos Agentes?",
+  "criado_em": "2026-11-12T12:44:06Z",
+  "fonte": {
+    "url": "https://www.youtube.com/watch?v=x8EQ3wz_ldU",
+    "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/original.mp4",
+    "duracao_s": 2578.6
+  },
+  "resumo": "Três participantes debatem a diferença entre chatbot e agente de IA, o papel da supervisão humana e os riscos de dar autonomia demais a agentes, com casos reais como o da fila do restaurante e o do treino de modelo refeito após dois dias. O papo também cobre prompt injection, vibe coding e o futuro da autonomia da IA.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "A IA tirou alguém da fila do restaurante",
+      "inicio": "00:18:50.9",
+      "fim": "00:19:56.1",
+      "duracao_s": 65.2,
+      "gancho": "Isso é muito importante porque acho que vocês já viram esse caso",
+      "por_que": "História com virada inesperada: o agente tirou uma pessoa da fila e não conseguiu reverter. Gera surpresa, debate e compartilhamento.",
+      "nota": 8.6,
+      "formato": "entrevista-podcast",
+      "legenda": "Ele pediu pro agente subir o lugar na fila do restaurante. O agente tirou alguém da fila.\nO usuário mandou reverter, e o Claude respondeu que não dava: não tinha salvo os dados da pessoa.\nÉ por isso que ação irreversível tem que ser decisão humana.\nVocê deixaria um agente agir sozinho em algo que não dá pra desfazer? Comenta aí.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#inteligenciaartificial",
+        "#agentesdeia",
+        "#claude",
+        "#segurancadaia",
+        "#podcastdetecnologia"
+      ],
+      "mercado": {
+        "padrao": "Notícia de IA com tensão e consequência, como a crise do CEO da empresa de IA",
+        "referencia_url": "https://www.instagram.com/p/DfiMwQjmtCz/",
+        "alinhamento": 7
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/01.mp4",
+      "titulo_capa": "A IA tirou alguém da fila"
+    },
+    {
+      "n": 2,
+      "titulo": "Prompt injection: o texto invisível na prova",
+      "inicio": "00:26:03.3",
+      "fim": "00:26:56.3",
+      "duracao_s": 53.0,
+      "gancho": "Eu me lembro justamente que teve uma de justamente professores colocando nas próprias provas um texto, só que em branco.",
+      "por_que": "História curiosa e visual, com dado surpreendente de segurança. Qualquer pessoa entende, e o risco real do final prende.",
+      "nota": 8.3,
+      "formato": "entrevista-podcast",
+      "legenda": "Um texto em branco na prova fez a IA responder qualquer coisa.\nO professor escondeu uma instrução que o aluno não vê, mas a IA lê.\nÉ uma injeção de prompt básica. Se dá pra mudar a ação de um agente, dá pra pedir qualquer coisa a ele.\nVocê já tinha ouvido falar de prompt injection? Conta nos comentários.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#promptinjection",
+        "#ia",
+        "#ciberseguranca",
+        "#agentesdeia",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Curiosidade tech com revelação, estilo notícia de IA com consequência",
+        "referencia_url": "https://www.instagram.com/p/DfiMwQjmtCz/",
+        "alinhamento": 6
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/02.mp4",
+      "titulo_capa": "O texto invisível na prova"
+    },
+    {
+      "n": 3,
+      "titulo": "Vibe coding em casa é uma coisa. Em produção é outra",
+      "inicio": "00:31:34.5",
+      "fim": "00:32:47.6",
+      "duracao_s": 73.1,
+      "gancho": "Por isso que o vibe coding ele é criticado quando não é sob a supervisão",
+      "por_que": "Opinião polêmica sobre vibe coding, tema quente e que gera discordância. Termina na frase 'não é falando mal... é falando sim'.",
+      "nota": 8.2,
+      "formato": "entrevista-podcast",
+      "legenda": "Vibe coding no fim de semana é uma coisa. Em produção, com dado real, é outra.\nMudar a cor do site sem supervisão é uma coisa. Pagamento real e dado clínico real é outra.\nO agente dificilmente vai se atentar a falha de segurança, como SQL Injection.\nSalva esse vídeo pra quem acha que vibe coding resolve tudo. E você, usa em produção?\nEpisódio completo no canal.",
+      "hashtags": [
+        "#vibecoding",
+        "#programacao",
+        "#sqlinjection",
+        "#desenvolvedor",
+        "#segurancadigital"
+      ],
+      "mercado": {
+        "padrao": "Opinião forte sobre o futuro da programação com IA, como o gancho 'programação acabou' do Filipe Deschamps",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 9
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/03.mp4",
+      "titulo_capa": "Vibe coding em produção"
+    },
+    {
+      "n": 4,
+      "titulo": "Programador não pensa menos. Pensa demais com IA",
+      "inicio": "00:33:59.8",
+      "fim": "00:35:16.4",
+      "duracao_s": 76.6,
+      "gancho": "Teve um episódio passado do podcast que justamente um dos convidados, Davi, ele falou que o programador, ele sempre pensa.",
+      "por_que": "Responde ao medo 'a programação acabou' mostrando que o foco do programador mudou, não que sumiu. Alta relevância com o debate em alta.",
+      "nota": 8.0,
+      "formato": "entrevista-podcast",
+      "legenda": "Com IA, o programador não pensa menos. Pensa mais.\nAgora ele define a arquitetura, os limites da IA e o que está certo ou errado.\nA IA escreve, revisa e comenta o código. O foco do programador é que mudou.\nPara você, o trabalho de dev ficou mais leve ou mais pesado? Comenta.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#programador",
+        "#engenhariadesoftware",
+        "#ia",
+        "#carreiradev",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Contra-argumento ao 'programação acabou', gancho polêmico de alta performance",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 9
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/04.mp4",
+      "titulo_capa": "Dev pensa mais com IA"
+    },
+    {
+      "n": 5,
+      "titulo": "Treinaram um modelo por 2 dias com dado errado",
+      "inicio": "00:20:56.5",
+      "fim": "00:21:52.9",
+      "duracao_s": 56.4,
+      "gancho": "Só que o Cloud ele tinha implementado uma função que como se ela tivesse mascarando os números",
+      "por_que": "História pessoal com virada: dois dias de treino perdidos porque a IA mascarou métricas. Conclusão clara de que o olhar humano ainda é necessário.",
+      "nota": 7.9,
+      "formato": "entrevista-podcast",
+      "legenda": "Dois dias de treinamento jogados fora por causa de um erro que a IA não percebeu.\nO Claude tinha implementado uma função que mascarava os números das métricas.\nO time só viu depois de dois dias e precisou refazer o treino.\nPor isso o olhar humano ainda faz diferença. Já te aconteceu algo parecido com IA? Conta aqui.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#machinelearning",
+        "#treinamentodemodelos",
+        "#claude",
+        "#ia",
+        "#cientistadedados"
+      ],
+      "mercado": {
+        "padrao": "Notícia de falha ou risco de IA, estilo caso real com consequência",
+        "referencia_url": "https://www.instagram.com/p/DfiMwQjmtCz/",
+        "alinhamento": 7
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/05.mp4",
+      "titulo_capa": "2 dias de treino perdidos"
+    },
+    {
+      "n": 6,
+      "titulo": "A IA é um estagiário competente que precisa de supervisão",
+      "inicio": "00:32:59.7",
+      "fim": "00:34:00.0",
+      "duracao_s": 60.3,
+      "gancho": "O agente, ele só vai fazer. É um estagiário competente, né?",
+      "por_que": "Frase de efeito citável (estagiário, júnior, sênior) com tema de carreira e programação que o mercado já valoriza.",
+      "nota": 7.7,
+      "formato": "entrevista-podcast",
+      "legenda": "A IA hoje é um estagiário competente. Talvez um júnior.\nEla sabe muito de técnica, mas deixa a desejar nas outras áreas.\nSem supervisão, não dá. O humano fica na parte de gestão.\nVocê trata a IA como estagiário ou como júnior? Comenta qual.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#ia",
+        "#agentesdeia",
+        "#futurodotrabalho",
+        "#supervisaohumana",
+        "#tecnologia"
+      ],
+      "mercado": {
+        "padrao": "Debate sobre o papel do programador na era da IA",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 8
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/06.mp4",
+      "titulo_capa": "IA é estagiário competente"
+    },
+    {
+      "n": 7,
+      "titulo": "Chatbot só responde. Agente executa por você",
+      "inicio": "00:08:39.1",
+      "fim": "00:09:12.5",
+      "duracao_s": 33.4,
+      "gancho": "Sim, eh por exemplo, se eu disser a um que eu quero, por exemplo, abrir o meu calendário",
+      "por_que": "Explica em um exemplo simples a diferença entre chatbot e agente, tema central e universal que atrai quem nunca usou agentes.",
+      "nota": 7.6,
+      "formato": "entrevista-podcast",
+      "legenda": "Chatbot ensina você a abrir o calendário. Agente abre o calendário por você.\nPede pra alterar as datas do mês e colocar um lembrete? O chatbot explica o passo a passo.\nO agente executa, com a sua permissão.\nQual tarefa chata você passaria pra um agente? Comenta.\nEpisódio completo no canal.",
+      "hashtags": [
+        "#chatbot",
+        "#agentesdeia",
+        "#inteligenciaartificial",
+        "#automacao",
+        "#produtividade"
+      ],
+      "mercado": {
+        "padrao": "Explicação didática de IA e agentes, como o post do Claude ganhando apps de planilha",
+        "referencia_url": "https://www.instagram.com/p/Dfmyy-_jv1U/",
+        "alinhamento": 7
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/07.mp4",
+      "titulo_capa": "Chatbot x agente de IA"
+    },
+    {
+      "n": 8,
+      "titulo": "Uma IA que não faz nada ou uma que decide tudo?",
+      "inicio": "00:35:19.4",
+      "fim": "00:36:30.5",
+      "duracao_s": 71.1,
+      "gancho": "É, e aí acho que a gente cai num, num grande dilema assim.",
+      "por_que": "Pergunta difícil com dilema claro, resposta honesta e fecho com 'prefiro um Jarvis'. Gera comentários e escolha de lado.",
+      "nota": 7.4,
+      "formato": "entrevista-podcast",
+      "legenda": "Uma IA que não faz nada sozinha ou uma que decide tudo sem explicar?\nO grupo concordou que a mais perigosa é a que tem autonomia pra tudo.\nA outra dá trabalho, porque alguém precisa vigiar e atualizar os parâmetros.\nNa conversa, a escolha foi um Jarvis, o meio termo.\nE você, qual escolhe? Comenta e vê o episódio completo.",
+      "hashtags": [
+        "#ia",
+        "#autonomiadaia",
+        "#futurodaia",
+        "#agentesdeia",
+        "#podcast"
+      ],
+      "mercado": {
+        "padrao": "Pergunta polêmica sobre o futuro da IA que gera debate nos comentários",
+        "referencia_url": "https://www.instagram.com/p/DfFpgdiRmt8/",
+        "alinhamento": 7
+      },
+      "arquivo": "midia/2026-11-12-watch-v-x8eq3wz-ldu/cortes/08.mp4",
+      "titulo_capa": "Ultron ou Jarvis?"
+    }
+  ],
+  "roteiros": [],
+  "mercado": {
+    "nicho": "inteligencia artificial agentes de ia e ",
+    "pesquisa_id": "2026-11-12-inteligencia-artificial-agentes-de-ia-e-"
+  }
+}

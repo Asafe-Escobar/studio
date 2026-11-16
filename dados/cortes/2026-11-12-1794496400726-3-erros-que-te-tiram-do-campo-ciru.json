@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-12-1794496400726-3-erros-que-te-tiram-do-campo-ciru",
+  "tipo": "cortes",
+  "origem": "edicao",
+  "titulo": "1794496400726-3-erros-que-te-tiram-do-campo-cirurgico-1080p",
+  "criado_em": "2026-11-12T15:14:58Z",
+  "fonte": {
+    "url": null,
+    "arquivo": "midia/2026-11-12-1794496400726-3-erros-que-te-tiram-do-campo-ciru/original.mp4",
+    "duracao_s": 39.7
+  },
+  "resumo": "Edição pelo pedido: Vídeo mantido inteiro (sem cortes), pois o pedido não pede para cortar nada; legenda queimada ativada em modo vertical, e o que depende de efeitos ficou de fora.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "3 erros que tiram você do campo no internato",
+      "inicio": "00:00:00.0",
+      "fim": "00:00:39.7",
+      "duracao_s": 39.7,
+      "gancho": "Três erros que fazem o cirurgião te tirar do campo no internato, e o",
+      "por_que": "Vídeo mantido inteiro (sem cortes), pois o pedido não pede para cortar nada; legenda queimada ativada em modo vertical, e o que depende de efeitos ficou de fora.",
+      "nota": null,
+      "formato": "talking-head",
+      "legenda": "3 erros que fazem o cirurgião te tirar do campo no internato\nO terceiro começa antes de você entrar na sala.\n\nErro 1: encostar em algo que não é estéril e ficar calado. Contaminou? Avisa na hora e troca. O que o cirurgião não perdoa é descobrir depois.\n\nErro 2: pegar instrumento da mesa sem ninguém pedir. A mesa é da instrumentadora. Quer ajudar? Pergunta antes.\n\nErro 3: entrar na sala sem saber qual é a cirurgia nem quem é o paciente. Quem leu o prontuário conhece o caso e é chamado para ajudar.\n\nQual desses erros você já viu acontecer no rodízio? Comenta o número.\n\nManda para o colega que entra no rodízio de cirurgia e segue o Safe Internato para ver a série completa.",
+      "hashtags": [
+        "#internato",
+        "#medicina",
+        "#centrocirurgico",
+        "#safeinternato",
+        "#estudantedemedicina"
+      ],
+      "arquivo": "midia/2026-11-12-1794496400726-3-erros-que-te-tiram-do-campo-ciru/cortes/01.mp4",
+      "trechos": [
+        {
+          "inicio": "00:00:00.0",
+          "fim": "00:00:39.7",
+          "motivo": "O pedido não fala em cortar nada, então o vídeo fica inteiro, do gancho ao CTA."
+        }
+      ],
+      "titulo_capa": "3 erros que tiram você do campo"
+    }
+  ],
+  "roteiros": [],
+  "pedido_edicao": {
+    "texto": "eu quero que a legenda seja no estilo do safe internato, a cor do safe internato é vermelha, quero tbm o fundo interativo, com videos passando de acordo com a fala, trabalhe na parte de zoom e etc",
+    "resumo": "Vídeo mantido inteiro (sem cortes), pois o pedido não pede para cortar nada; legenda queimada ativada em modo vertical, e o que depende de efeitos ficou de fora.",
+    "nao_feito": [
+      "Estilo de legenda do Safe Internato em vermelho: a legenda queimada sai no estilo padrão da ferramenta, não dá para definir cor nem estilo aqui.",
+      "Fundo interativo com vídeos passando de acordo com a fala (b-roll): não dá para inserir vídeos de apoio nesta edição.",
+      "Zoom e efeitos visuais: não dá para aplicar zoom, punch-in ou outros efeitos nesta edição.",
+      "Música de fundo: a biblioteca está vazia, então nenhuma faixa foi escolhida."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-12-1794495728794-3-erros-que-te-tiram-do-campo-ciru",
+  "tipo": "cortes",
+  "origem": "edicao",
+  "titulo": "1794495728794-3-erros-que-te-tiram-do-campo-cirurgico-1080p",
+  "criado_em": "2026-11-12T15:03:47Z",
+  "fonte": {
+    "url": null,
+    "arquivo": "midia/2026-11-12-1794495728794-3-erros-que-te-tiram-do-campo-ciru/original.mp4",
+    "duracao_s": 39.7
+  },
+  "resumo": "Edição pelo pedido: Mantive o vídeo inteiro, já que o pedido não fala em cortar, e adicionei a música calma de fundo em volume baixo para a voz ficar clara.",
+  "cortes": [
+    {
+      "n": 1,
+      "titulo": "3 erros que tiram você do campo no internato",
+      "inicio": "00:00:00.0",
+      "fim": "00:00:39.7",
+      "duracao_s": 39.7,
+      "gancho": "Três erros que fazem o cirurgião te tirar do campo no internato, e o",
+      "por_que": "Mantive o vídeo inteiro, já que o pedido não fala em cortar, e adicionei a música calma de fundo em volume baixo para a voz ficar clara.",
+      "nota": null,
+      "formato": "talking-head",
+      "legenda": "O cirurgião te tira do campo por 3 erros. O terceiro começa antes da sala.\nErro 1: encostar em algo que não é estéril e ficar calado. Contaminou? Avisa na hora e troca.\nErro 2: pegar instrumento da mesa sem ninguém pedir. A mesa é da instrumentadora, pede antes.\nErro 3: entrar na sala sem saber qual é a cirurgia nem quem é o paciente. Lê o prontuário antes.\nQual desses você já viu acontecer no centro cirúrgico? Comenta o número.\nManda para o colega que entra no rodízio de cirurgia e segue o Safe Internato para ver a série completa.",
+      "hashtags": [
+        "#internato",
+        "#medicina",
+        "#centrocirurgico",
+        "#safeinternato",
+        "#estudantedemedicina"
+      ],
+      "arquivo": "midia/2026-11-12-1794495728794-3-erros-que-te-tiram-do-campo-ciru/cortes/01.mp4",
+      "trechos": [
+        {
+          "inicio": "00:00:00.0",
+          "fim": "00:00:39.7",
+          "motivo": "O pedido não fala em cortar nada, então o vídeo fica inteiro."
+        }
+      ],
+      "titulo_capa": "3 erros que tiram você do campo"
+    }
+  ],
+  "roteiros": [],
+  "pedido_edicao": {
+    "texto": "eu queroa legenda estilo safeinternato, que é uma vermelha a r do safeinternato,  querofundo interativo, passando videos que tem a ver com oq ele fala e uma musica estilo solitude, oppenhimer essas coisas",
+    "resumo": "Mantive o vídeo inteiro, já que o pedido não fala em cortar, e adicionei a música calma de fundo em volume baixo para a voz ficar clara.",
+    "nao_feito": [
+      "Legenda no estilo do Safe Internato (vermelha, com o nome do perfil): o estilo da legenda queimada não é personalizável aqui, e o pedido não permite definir cor ou fonte.",
+      "Fundo interativo com vídeos relacionados ao que ele fala: b-roll não é possível nesta etapa.",
+      "Música no estilo Solitude/Oppenheimer: a biblioteca só tem teste-calma-zero1.mp3, então usei a mais próxima. Para esse clima, adicione uma faixa mais cinematográfica à biblioteca."
+    ]
+  }
+}

@@ -1,0 +1,1051 @@
+{
+  "id": "2026-11-12-cardiologia",
+  "tipo": "pesquisa",
+  "nicho": "cardiologia",
+  "cliente": "medsafe",
+  "criado_em": "2026-11-12T12:00:00Z",
+  "fontes": [
+    "meta-graph-api:instagram"
+  ],
+  "metrica_views": "views (Reels, business_discovery); imagens e carrosséis não têm views",
+  "resumo": "17 perfis de cardiologia (médicos do Brasil e EUA, hospitais e sociedades) e 510 posts coletados pela API oficial da Meta em 12/11/2026; formatos, participação e médias foram calculados sobre os 25 top posts por outlier_score (interações / mediana do próprio perfil). Reels são 51% do que se publica e 76% do que vira outlier; a mediana de views de Reels no nicho é 19.638. O que mais performa é o caso real narrado com gancho de medo e identificação ('pode acontecer com qualquer pessoa'), seguido do médico falando direto para a câmera sobre prevenção, data comemorativa ou respondendo comentário. Engajamento = (likes + comentários) / views nos Reels e / seguidores em imagens e carrosséis (sem views). Os formatos de vídeo foram inferidos pela legenda, sem assistir aos vídeos. Recomendação: trabalhar 3 pilares, sinal no corpo e emergência (alcance), hábito e mito do momento (engajamento) e médico que responde e explica estudo (autoridade). Mix sugerido por semana: 2 b-roll-narrado para alcance, 2 talking-head (um respondendo comentário) e 1 react sobre estudo ou trend, sempre com CRM/RQE na legenda e dados clínicos validados antes de gravar. Aproveitar datas de saúde (14/11, Dia Mundial do Diabetes) com collab de outro especialista.",
+  "perfis_analisados": [
+    "@cardioghattas",
+    "@lucasviana.cardio",
+    "@dantepazzanese",
+    "@incorhcfmusp",
+    "@drafernandacardio",
+    "@yourheartdoc",
+    "@socesp",
+    "@drsavioli",
+    "@hospitaldocoracao",
+    "@drjeremylondon",
+    "@drlairribeiro",
+    "@drrobertokalil",
+    "@drsantiagonunes",
+    "@cardiovisual",
+    "@american_heart",
+    "@cafecomcardio",
+    "@sbc.cardiol"
+  ],
+  "formatos": [
+    {
+      "formato": "b-roll-narrado",
+      "participacao": 0.16,
+      "views_medias": 3686035,
+      "views_medianas": 1836809,
+      "engajamento_medio": 0.0381,
+      "outlier_mediano": 46.97,
+      "n_posts": 4,
+      "por_que_funciona": "Caso real ou sinal visível narrado sobre imagens: medo + 'pode acontecer com você' + pedido de envio. Concentra os maiores alcances do nicho.",
+      "exemplo_url": "https://www.instagram.com/reel/DfY4NuzRYBD/"
+    },
+    {
+      "formato": "talking-head",
+      "participacao": 0.2,
+      "views_medias": 451022,
+      "views_medianas": 396988,
+      "engajamento_medio": 0.0797,
+      "outlier_mediano": 17.02,
+      "n_posts": 5,
+      "por_que_funciona": "Médico com autoridade (CRM/RQE, nome conhecido) falando de prevenção, data comemorativa ou respondendo comentário; gera muitos comentários.",
+      "exemplo_url": "https://www.instagram.com/reel/Ddd-ExVOF7i/"
+    },
+    {
+      "formato": "vlog-bastidores",
+      "participacao": 0.2,
+      "views_medias": 24057,
+      "views_medianas": 19209,
+      "engajamento_medio": 0.0685,
+      "outlier_mediano": 7.23,
+      "n_posts": 5,
+      "por_que_funciona": "Bastidores de hospital (inauguração, caso ao vivo em congresso) supera a mediana de perfis institucionais pequenos e médios.",
+      "exemplo_url": "https://www.instagram.com/reel/DfkruhLqIhT/"
+    },
+    {
+      "formato": "react",
+      "participacao": 0.12,
+      "views_medias": 315443,
+      "views_medianas": 328096,
+      "engajamento_medio": 0.0702,
+      "outlier_mediano": 10.15,
+      "n_posts": 3,
+      "por_que_funciona": "Opinião sobre algo externo com pergunta aberta: maior taxa de comentário por view. Nos perfis estrangeiros, puxado por política (evitar).",
+      "exemplo_url": "https://www.instagram.com/reel/DeU6rMVOsb-/"
+    },
+    {
+      "formato": "carrossel",
+      "participacao": 0.24,
+      "views_medias": null,
+      "views_medianas": null,
+      "engajamento_medio": 0.0135,
+      "outlier_mediano": 9.72,
+      "n_posts": 6,
+      "por_que_funciona": "Em imagens e carrosséis o outlier vem de comunidade (pesar, premiação, aniversário) ou de conexão inesperada; alcance bem menor que Reels. Engajamento sobre seguidores.",
+      "exemplo_url": "https://www.instagram.com/p/Dfj2uFYxXmY/"
+    },
+    {
+      "formato": "entrevista-podcast",
+      "participacao": 0.04,
+      "views_medias": 1083613,
+      "views_medianas": 1083613,
+      "engajamento_medio": 0.0195,
+      "outlier_mediano": 9.56,
+      "n_posts": 1,
+      "por_que_funciona": "Pergunta direta ao especialista sobre hábito do momento (vape); simples de replicar.",
+      "exemplo_url": "https://www.instagram.com/reel/DdRZ7D8ICu1/"
+    },
+    {
+      "formato": "green-screen",
+      "participacao": 0.04,
+      "views_medias": 519433,
+      "views_medianas": 519433,
+      "engajamento_medio": 0.0235,
+      "outlier_mediano": 9.5,
+      "n_posts": 1,
+      "por_que_funciona": "Estudo recém-publicado explicado com o artigo de fundo; autoridade baseada em evidência.",
+      "exemplo_url": "https://www.instagram.com/reel/Deh6z87OF6q/"
+    }
+  ],
+  "padroes": [
+    {
+      "titulo": "Medo com identificação: 'pode acontecer com qualquer pessoa'",
+      "descricao": "Os dois maiores outliers de conteúdo abrem dizendo que a pessoa saudável também corre risco e contam um caso real de morte súbita. Para medsafe: usar o mecanismo sem sensacionalismo e sem imagem de paciente identificável (Resolução CFM 2.336/2023).",
+      "evidencia": "@cafecomcardio: 10.963.615 views (outlier 544,07) e 3.119.110 views (outlier 84,21)"
+    },
+    {
+      "titulo": "Sinal visível no corpo",
+      "descricao": "Gancho 'se alguém tem isso...' mostrando algo que o espectador pode checar em si ou em outra pessoa (xantelasma). Gera compartilhamento por cuidado.",
+      "evidencia": "@cafecomcardio xantelasma: 554.508 views, outlier 9,33"
+    },
+    {
+      "titulo": "Pergunta aberta ou comentário hostil como tema gera comentário",
+      "descricao": "Legendas curtas tipo 'Qual sua opinião?' ou resposta a comentário hostil puxam a maior taxa de comentários por view.",
+      "evidencia": "'Qual sua opinião?': 1.649 comentários em 98.853 views; 'Passando pra ver se o Dr. infartou': 4.172 comentários"
+    },
+    {
+      "titulo": "Estudo novo ou hábito do momento em forma de pergunta",
+      "descricao": "Ganchos em pergunta sobre algo em pauta (estatina x demência, vape) com resposta baseada em evidência.",
+      "evidencia": "@yourheartdoc STAREE: 519.433 views (outlier 9,5); @drjeremylondon vape: 1.083.613 views (outlier 9,56)"
+    },
+    {
+      "titulo": "Data comemorativa com collab de médicos conhecidos",
+      "descricao": "Post em data de saúde (dia do SUS) com outros nomes da cardiologia multiplica comentários pela audiência somada.",
+      "evidencia": "@drrobertokalil SUS: 874.174 views, 8.851 comentários, outlier 93,3"
+    },
+    {
+      "titulo": "Bastidores institucionais funcionam para hospitais",
+      "descricao": "Para perfis de instituição, inauguração, caso ao vivo em congresso e aniversário batem 7x a 10x a mediana do perfil; conteúdo educativo institucional fica na média.",
+      "evidencia": "5 dos 25 top posts são bastidores (@dantepazzanese 4, @hospitaldocoracao 1)"
+    },
+    {
+      "titulo": "Reels dominam os outliers",
+      "descricao": "Reels são 51% dos posts coletados e 76% dos top posts. Imagem e carrossel só viram outlier em comunidade (pesar, premiação) ou conexão inesperada.",
+      "evidencia": "mix geral reels 0,51 x top 0,76; mediana de views de Reels no nicho: 19.638"
+    },
+    {
+      "titulo": "Política e temas fora do nicho: alcance com risco",
+      "descricao": "Dois outliers de @yourheartdoc são opinião política. Não replicar para medsafe: risco de marca e fora da proposta.",
+      "evidencia": "@yourheartdoc: outlier 27,71 e 10,15"
+    }
+  ],
+  "posts_referencia": [
+    {
+      "url": "https://www.instagram.com/reel/DfY4NuzRYBD/",
+      "perfil": "@cafecomcardio",
+      "rede": "instagram",
+      "formato": "b-roll-narrado",
+      "gancho": "O que encerrou a vida dessa moça pode acontecer com qualquer pessoa saudável.",
+      "views": 10963615,
+      "likes": 579646,
+      "comentarios": 10127,
+      "compartilhamentos": null,
+      "seguidores": 1991289,
+      "outlier_score": 544.07,
+      "data": "2026-11-06",
+      "resumo": "Caso real de morte súbita por rabdomiólise narrado sobre imagens; medo + identificação + pedido de envio. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfTpBRRACB_/",
+      "perfil": "@cafecomcardio",
+      "rede": "instagram",
+      "formato": "b-roll-narrado",
+      "gancho": "Isso pode acontecer com qualquer pessoa, mesmo que não tenha problema cardíaco.",
+      "views": 3119110,
+      "likes": 89857,
+      "comentarios": 1426,
+      "compartilhamentos": null,
+      "seguidores": 1991289,
+      "outlier_score": 84.21,
+      "data": "2026-11-04",
+      "resumo": "Commotio cordis (pancada no peito) explicado sobre o vídeo do incidente. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Ddd-ExVOF7i/",
+      "perfil": "@drrobertokalil",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Hoje celebramos um dos maiores patrimônios da saúde brasileira: o SUS.",
+      "views": 874174,
+      "likes": 87850,
+      "comentarios": 8851,
+      "compartilhamentos": null,
+      "seguidores": 1338677,
+      "outlier_score": 93.3,
+      "data": "2026-09-19",
+      "resumo": "Fala em data comemorativa com outros médicos conhecidos (collab); 8.851 comentários. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DdRZ7D8ICu1/",
+      "perfil": "@drjeremylondon",
+      "rede": "instagram",
+      "formato": "entrevista-podcast",
+      "gancho": "Asking a Heart Surgeon: why is smoking and vaping so dangerous?",
+      "views": 1083613,
+      "likes": 20829,
+      "comentarios": 296,
+      "compartilhamentos": null,
+      "seguidores": 1594021,
+      "outlier_score": 9.56,
+      "data": "2026-09-14",
+      "resumo": "Pergunta direta ao cirurgião sobre vape; formato pergunta e resposta. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/De_zJ1AxPRm/",
+      "perfil": "@cafecomcardio",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "“Passando pra ver se o Dr. infartou.”",
+      "views": 396988,
+      "likes": 23113,
+      "comentarios": 4172,
+      "compartilhamentos": null,
+      "seguidores": 1991289,
+      "outlier_score": 25.17,
+      "data": "2026-10-27",
+      "resumo": "Resposta a comentário hostil virou tema; polariza e gera 4.172 comentários. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfNxZXvRVEJ/",
+      "perfil": "@cafecomcardio",
+      "rede": "instagram",
+      "formato": "b-roll-narrado",
+      "gancho": "Se alguém que tem isso no lado dos olhos, avise: sinal de atenção.",
+      "views": 554508,
+      "likes": 9937,
+      "comentarios": 179,
+      "compartilhamentos": null,
+      "seguidores": 1991289,
+      "outlier_score": 9.33,
+      "data": "2026-11-01",
+      "resumo": "Sinal visível (xantelasma) ligado a colesterol alto e risco de infarto; gancho de 'olhe no espelho'. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfUue3vs-Dk/",
+      "perfil": "@drrobertokalil",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Caminhar é o elixir da vida!",
+      "views": 532967,
+      "likes": 16411,
+      "comentarios": 1233,
+      "compartilhamentos": null,
+      "seguidores": 1338677,
+      "outlier_score": 17.02,
+      "data": "2026-11-04",
+      "resumo": "Recomendação simples de prevenção com CRM/RQE na legenda (compliance CFM). Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Deh6z87OF6q/",
+      "perfil": "@yourheartdoc",
+      "rede": "instagram",
+      "formato": "green-screen",
+      "gancho": "Statins and Dementia?",
+      "views": 519433,
+      "likes": 11833,
+      "comentarios": 394,
+      "compartilhamentos": null,
+      "seguidores": 228462,
+      "outlier_score": 9.5,
+      "data": "2026-10-15",
+      "resumo": "Estudo novo (STAREE, NEJM) explicado com o artigo de fundo; gancho de pergunta polêmica. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Del_IIWiWyZ/",
+      "perfil": "@drsavioli",
+      "rede": "instagram",
+      "formato": "talking-head",
+      "gancho": "Que seu medicamento venha acompanhado da fé!",
+      "views": 233313,
+      "likes": 26927,
+      "comentarios": 1393,
+      "compartilhamentos": null,
+      "seguidores": 1818341,
+      "outlier_score": 8.25,
+      "data": "2026-10-17",
+      "resumo": "Fé + adesão ao tratamento, CTA de salvar. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfQL7LVNWIM/",
+      "perfil": "@cafecomcardio",
+      "rede": "instagram",
+      "formato": "react",
+      "gancho": "Qual sua opinião?",
+      "views": 98853,
+      "likes": 8431,
+      "comentarios": 1649,
+      "compartilhamentos": null,
+      "seguidores": 1991289,
+      "outlier_score": 9.3,
+      "data": "2026-11-02",
+      "resumo": "Legenda de uma linha pedindo opinião: 1.649 comentários em 98.853 views (maior taxa de comentário do top). Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DXhxdL8FM9Q/",
+      "perfil": "@incorhcfmusp",
+      "rede": "instagram",
+      "formato": "b-roll-narrado",
+      "gancho": "O InCor foi destaque no Jornal Nacional.",
+      "views": 106907,
+      "likes": 5321,
+      "comentarios": 155,
+      "compartilhamentos": null,
+      "seguidores": 75290,
+      "outlier_score": 9.73,
+      "data": "2026-04-24",
+      "resumo": "Reportagem de TV sobre IA no cuidado ao paciente reaproveitada como prova de autoridade. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfkruhLqIhT/",
+      "perfil": "@dantepazzanese",
+      "rede": "instagram",
+      "formato": "vlog-bastidores",
+      "gancho": "E aí, já podemos voltar com as entregas?",
+      "views": 45867,
+      "likes": 2141,
+      "comentarios": 133,
+      "compartilhamentos": null,
+      "seguidores": 27171,
+      "outlier_score": 10.73,
+      "data": "2026-11-10",
+      "resumo": "Inauguração do novo PS (republicado do governador). Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/reel/DfVBifSgd9J/",
+      "perfil": "@dantepazzanese",
+      "rede": "instagram",
+      "formato": "vlog-bastidores",
+      "gancho": "Transmitimos ao vivo, do nosso laboratório de hemodinâmica, um caso para o TCT 2026.",
+      "views": 19209,
+      "likes": 1454,
+      "comentarios": 56,
+      "compartilhamentos": null,
+      "seguidores": 27171,
+      "outlier_score": 7.12,
+      "data": "2026-11-04",
+      "resumo": "Bastidores de procedimento transmitido a congresso internacional. Formato inferido."
+    },
+    {
+      "url": "https://www.instagram.com/p/DfPsJfqF_h3/",
+      "perfil": "@american_heart",
+      "rede": "instagram",
+      "formato": "carrossel",
+      "gancho": "Your first period and whether your cycles are regular can offer clues about your heart health.",
+      "views": null,
+      "likes": 6358,
+      "comentarios": 41,
+      "compartilhamentos": null,
+      "seguidores": 662361,
+      "outlier_score": 17.82,
+      "data": "2026-11-02",
+      "resumo": "Conexão inesperada (menstruação x coração) para público feminino. Formato inferido: imagem estática."
+    },
+    {
+      "url": "https://www.instagram.com/p/DfHfss2Nq25/",
+      "perfil": "@socesp",
+      "rede": "instagram",
+      "formato": "carrossel",
+      "gancho": "Você sabia que a espiritualidade pode ser ferramenta clínica contra doenças cardiovasculares?",
+      "views": null,
+      "likes": 1385,
+      "comentarios": 20,
+      "compartilhamentos": null,
+      "seguidores": 54527,
+      "outlier_score": 8.54,
+      "data": "2026-10-30",
+      "resumo": "Ciência + espiritualidade com 'Você sabia'. Formato inferido: imagem estática."
+    }
+  ],
+  "roteiros": [
+    {
+      "titulo": "Pancada no peito que para o coração (commotio cordis)",
+      "formato": "b-roll-narrado",
+      "duracao_s": 40,
+      "objetivo": "alcance",
+      "gancho": "Uma bolada no peito pode parar o coração de quem é saudável.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Câmera lenta de uma bola de futebol vindo na direção da lente, num campo de várzea ao entardecer. Sem rosto de ninguém. Corte seco no impacto.",
+          "fala": "Uma bolada no peito pode parar o coração de quem é saudável.",
+          "texto_tela": "Uma bolada. Coração parado."
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Plano aberto de pelada de fim de semana, jogadores de costas ou fora de foco. Zoom de 110% no gol.",
+          "fala": "Sem doença no coração. Sem nenhum aviso antes.",
+          "texto_tela": "Sem doença cardíaca"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Animação 3D do coração batendo, com uma onda de eletrocardiograma ao lado. Um flash marca o momento do impacto no peito.",
+          "fala": "O nome disso é commotio cordis. A pancada acerta o peito num instante muito curto do batimento.",
+          "texto_tela": "Commotio cordis"
+        },
+        {
+          "tempo": "13-18s",
+          "visual": "Mesma animação: o traçado do ECG vira uma linha tremida e desorganizada. Som de batimento some.",
+          "fala": "E o coração entra num ritmo caótico. Ele treme em vez de bombear.",
+          "texto_tela": "O coração treme, não bombeia"
+        },
+        {
+          "tempo": "18-23s",
+          "visual": "Close em mãos de manequim de treinamento recebendo compressões no centro do peito. Ambiente de curso de primeiros socorros.",
+          "fala": "Se a pessoa cair e não respirar normal, comece a massagem no centro do peito. Forte e rápido.",
+          "texto_tela": "Não respira? Massagem já"
+        },
+        {
+          "tempo": "23-29s",
+          "visual": "Close de um DEA (desfibrilador externo automático) na parede de um clube ou academia. Mão abrindo a tampa.",
+          "fala": "Peça para alguém ligar 192 e buscar o desfibrilador. Ele fala o que fazer, passo a passo.",
+          "texto_tela": "192 + desfibrilador"
+        },
+        {
+          "tempo": "29-35s",
+          "visual": "Plano aberto de um ginásio vazio com o DEA em destaque na parede. Movimento lento de câmera em direção a ele.",
+          "fala": "Quanto mais cedo o choque, maior a chance de a pessoa voltar.",
+          "texto_tela": "Cada minuto conta"
+        },
+        {
+          "tempo": "35-40s",
+          "visual": "Volta para a bola parada no gramado, mesmo enquadramento do início.",
+          "fala": "Manda para quem joga bola com você. Você pode ser quem vai precisar agir.",
+          "texto_tela": "Manda pro seu time"
+        }
+      ],
+      "cta": "Manda para quem joga bola com você.",
+      "legenda": "Uma pancada no peito, no instante errado do batimento, pode fazer o coração entrar em fibrilação, mesmo em quem não tem doença cardíaca. Isso se chama commotio cordis.\n\nO que fazer se alguém cair e não respirar normal:\n1. Ligue 192.\n2. Comece a massagem no centro do peito, forte e rápido.\n3. Peça para buscarem o desfibrilador (DEA) e siga as instruções do aparelho.\n\nSaber isso não é exagero. É o que dá tempo para o socorro chegar.\n\nConteúdo educativo, não substitui avaliação médica.\nDr(a). [NOME] | Cardiologista | CRM [UF 000000] | RQE [000000]",
+      "hashtags": [
+        "#cardiologia",
+        "#commotiocordis",
+        "#mortesubita",
+        "#primeirossocorros",
+        "#rcp",
+        "#desfibrilador",
+        "#saudedocoracao",
+        "#esporte"
+      ],
+      "audio": "voz original do médico em off + trilha tensa baixa, batimento cardíaco nas cenas 3-4",
+      "referencia_url": "https://www.instagram.com/reel/DfTpBRRACB_/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Isso acontece em segundos e não precisa ter problema no coração.",
+        "Se alguém cair depois de uma bolada no peito, você sabe o que fazer?"
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Mecanismo: impacto na janela vulnerável da repolarização (onda T) que leva a fibrilação ventricular. Validar a redação com o médico responsável.",
+        "[DADO A CONFIRMAR] Conduta de leigo (ligar 192, compressões, DEA) conforme diretriz vigente da SBC/AHA de RCP. Confirmar o número do SAMU e a ordem dos passos.",
+        "Compliance CFM: não usar vídeo real de incidente nem de atleta identificável. Só banco de imagens, manequim e animação. Nada de 'morreu na hora' ou cenas de colapso.",
+        "Preencher CRM/RQE reais na legenda antes de publicar."
+      ]
+    },
+    {
+      "titulo": "A mancha amarela perto dos olhos (xantelasma)",
+      "formato": "b-roll-narrado",
+      "duracao_s": 35,
+      "objetivo": "alcance",
+      "gancho": "Se alguém que você ama tem essa mancha perto dos olhos, avisa.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Ilustração médica em close de uma pálpebra com placas amareladas no canto interno do olho. Desenho, sem foto de paciente. Zoom lento.",
+          "fala": "Se alguém que você ama tem essa mancha perto dos olhos, avisa.",
+          "texto_tela": "Tem isso perto dos olhos?"
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Mesma ilustração com uma seta indicando a placa amarela na pálpebra.",
+          "fala": "Essas placas amareladas têm nome: xantelasma.",
+          "texto_tela": "Xantelasma"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Animação de um vaso sanguíneo por dentro, com gordura se acumulando na parede.",
+          "fala": "Muitas vezes, são gordura depositada na pele. E podem ter relação com o colesterol alto.",
+          "texto_tela": "Pode ter ligação com o colesterol"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Animação da artéria estreitando aos poucos. Corte para um coração 3D com uma artéria coronária destacada em vermelho.",
+          "fala": "E colesterol alto, sem tratamento, entope as artérias do coração com o tempo.",
+          "texto_tela": "Artéria entupida = risco"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Mãos fazendo coleta de sangue no braço (rosto fora do quadro). Corte para tubo de exame sendo etiquetado.",
+          "fala": "Nem todo mundo com xantelasma tem colesterol alto. Por isso, o exame de sangue tira a dúvida.",
+          "texto_tela": "Exame de sangue tira a dúvida"
+        },
+        {
+          "tempo": "25-30s",
+          "visual": "Pessoa de costas se olhando num espelho de banheiro, reflexo desfocado.",
+          "fala": "Viu isso em você ou em alguém da família? Procura o médico e pede o perfil lipídico.",
+          "texto_tela": "Peça o perfil lipídico"
+        },
+        {
+          "tempo": "30-35s",
+          "visual": "Volta para a ilustração do olho do início, agora com o texto do CTA por cima.",
+          "fala": "Manda esse vídeo para quem precisa ver.",
+          "texto_tela": "Manda pra quem precisa ver"
+        }
+      ],
+      "cta": "Manda esse vídeo para quem precisa ver.",
+      "legenda": "Essas placas amareladas perto dos olhos se chamam xantelasma. Muitas vezes são depósitos de gordura na pele e podem estar ligadas a colesterol alto, que com o tempo aumenta o risco de doença nas artérias do coração.\n\nNem todo mundo com xantelasma tem colesterol alterado. Por isso, o primeiro passo é simples: consulta e exame de sangue (perfil lipídico).\n\nViu isso em alguém da família? Marca ou manda para essa pessoa.\n\nConteúdo educativo, não substitui avaliação médica.\nDr(a). [NOME] | Cardiologista | CRM [UF 000000] | RQE [000000]",
+      "hashtags": [
+        "#cardiologia",
+        "#xantelasma",
+        "#colesterol",
+        "#colesterolalto",
+        "#prevencao",
+        "#saudedocoracao",
+        "#infarto"
+      ],
+      "audio": "voz original do médico em off + música calma e séria",
+      "referencia_url": "https://www.instagram.com/reel/DfNxZXvRVEJ/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Olha no espelho agora: tem uma mancha amarela no canto do olho?",
+        "Essa mancha no olho pode estar falando do seu coração."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] A associação entre xantelasma e maior risco de infarto e doença cardiovascular, independente do colesterol, aparece em estudo de coorte (citar fonte se o médico quiser mencionar). O roteiro diz só 'pode ter relação', sem número.",
+        "[DADO A CONFIRMAR] Cerca de metade das pessoas com xantelasma tem colesterol normal. Validar antes de citar qualquer proporção. Hoje a fala diz só 'nem todo mundo'.",
+        "Compliance CFM: usar ilustração médica, nunca foto de paciente real nem de banco de imagens que pareça caso clínico identificável. Não falar de tratamento estético da lesão (sem antes/depois).",
+        "Preencher CRM/RQE reais na legenda antes de publicar."
+      ]
+    },
+    {
+      "titulo": "Treino extremo, urina escura e o coração (rabdomiólise)",
+      "formato": "b-roll-narrado",
+      "duracao_s": 42,
+      "objetivo": "alcance",
+      "gancho": "Um treino pode levar uma pessoa saudável para a UTI. O sinal aparece no banheiro.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Câmera lenta de pernas fazendo agachamento com barra pesada, academia com luz dura. Sem rosto.",
+          "fala": "Um treino pode levar uma pessoa saudável para a UTI.",
+          "texto_tela": "Saudável. Um treino. UTI."
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Corte seco para a porta de um banheiro se fechando. Tela escurece meio segundo.",
+          "fala": "E o primeiro sinal costuma aparecer no banheiro.",
+          "texto_tela": "O sinal está no banheiro"
+        },
+        {
+          "tempo": "7-13s",
+          "visual": "Sequência rápida: pessoa de costas na esteira em velocidade alta, garrafa de água vazia caindo no chão, toalha encharcada de suor.",
+          "fala": "Treino muito acima do que o corpo está acostumado, calor, pouca água.",
+          "texto_tela": "Excesso + calor + pouca água"
+        },
+        {
+          "tempo": "13-19s",
+          "visual": "Animação de fibras musculares se rompendo e liberando partículas na corrente sanguínea.",
+          "fala": "O músculo se rompe e solta substâncias no sangue. Isso se chama rabdomiólise.",
+          "texto_tela": "Rabdomiólise"
+        },
+        {
+          "tempo": "19-25s",
+          "visual": "Animação de rim filtrando o sangue e ficando sobrecarregado. Corte para o coração 3D com ECG irregular ao lado.",
+          "fala": "Isso sobrecarrega os rins. E o potássio pode subir a ponto de desregular o ritmo do coração.",
+          "texto_tela": "Rim e coração em risco"
+        },
+        {
+          "tempo": "25-32s",
+          "visual": "Copo de vidro com líquido marrom-escuro sobre fundo branco (cena encenada, sem pessoa). Seguem cortes de mão segurando a coxa e braço que não estica.",
+          "fala": "Os sinais são urina escura, cor de refrigerante de cola, dor muscular muito forte e inchaço.",
+          "texto_tela": "Urina escura + dor forte"
+        },
+        {
+          "tempo": "32-37s",
+          "visual": "Fachada de pronto-socorro à noite, letreiro aceso, sem pessoas identificáveis.",
+          "fala": "Viu isso depois de um treino? Não espera passar. Vai ao pronto-socorro.",
+          "texto_tela": "Não espera passar"
+        },
+        {
+          "tempo": "37-42s",
+          "visual": "Volta para a barra no chão da academia, mesmo enquadramento do início, sem ninguém.",
+          "fala": "Manda para aquele amigo que acha que treino bom é treino até passar mal.",
+          "texto_tela": "Manda pro amigo do treino"
+        }
+      ],
+      "cta": "Manda para o amigo que acha que treino bom é treino até passar mal.",
+      "legenda": "Rabdomiólise é quando o músculo se rompe e solta substâncias no sangue. Pode acontecer com quem é saudável, principalmente em treino muito acima do costume, no calor e com pouca hidratação.\n\nSinais de alerta depois do exercício:\n- urina escura, cor de refrigerante de cola\n- dor muscular muito forte, desproporcional ao treino\n- inchaço e fraqueza no músculo\n\nSe aparecerem, procure um pronto-socorro. Pode afetar os rins e, pelo potássio alto, o ritmo do coração.\n\nAumente a intensidade aos poucos e se hidrate. Conteúdo educativo, não substitui avaliação médica.\nDr(a). [NOME] | Cardiologista | CRM [UF 000000] | RQE [000000]",
+      "hashtags": [
+        "#cardiologia",
+        "#rabdomiolise",
+        "#treino",
+        "#academia",
+        "#saudedocoracao",
+        "#exercicio",
+        "#prevencao"
+      ],
+      "audio": "voz original do médico em off + trilha tensa baixa, som de batimento na cena 5",
+      "referencia_url": "https://www.instagram.com/reel/DfY4NuzRYBD/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Seu xixi ficou escuro depois do treino? Para tudo.",
+        "Treino de iniciante, intensidade de atleta: é assim que começa a rabdomiólise."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Ligação entre rabdomiólise, hipercalemia e arritmia cardíaca, e lista de sinais (urina escura, mialgia intensa, edema). Validar a redação com o médico responsável.",
+        "[DADO A CONFIRMAR] Fatores de risco citados (esforço sem adaptação, calor, desidratação). Não citar incidência nem mortalidade sem fonte.",
+        "Compliance CFM: não reproduzir o caso real da referência nem usar foto ou nome de vítima. O caso é genérico e encenado. O copo com líquido escuro é encenação, sem amostra real de paciente.",
+        "Tema mais de nefro e medicina do esporte. O ângulo cardíaco (potássio e ritmo) precisa ficar claro para manter o conteúdo dentro da especialidade registrada do médico.",
+        "Preencher CRM/RQE reais na legenda antes de publicar."
+      ]
+    },
+    {
+      "titulo": "Respondendo: 'Meu avô fumou a vida toda e viveu até 90'",
+      "formato": "talking-head",
+      "duracao_s": 40,
+      "objetivo": "engajamento",
+      "gancho": "\"Meu avô fumou a vida inteira e viveu até 90.\" Vamos falar do seu avô.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Plano médio-fechado, câmera na altura dos olhos, médico de jaleco no consultório. Print do comentário (sticker de resposta do Instagram, nome do perfil borrado) no terço superior. Médico lê e dá um meio sorriso.",
+          "fala": "\"Meu avô fumou a vida inteira e viveu até 90.\" Vamos falar do seu avô.",
+          "texto_tela": "Meu avô fumou e viveu 90"
+        },
+        {
+          "tempo": "3-8s",
+          "visual": "Corte seco para plano fechado, tom leve, mão no peito.",
+          "fala": "Primeiro: que bom pro seu avô. De verdade.",
+          "texto_tela": "Que bom pro seu avô"
+        },
+        {
+          "tempo": "8-17s",
+          "visual": "Jump cut, plano médio. Zoom de 110% em \"almoço de domingo\".",
+          "fala": "Só que ele é a exceção que todo mundo lembra. Quem parou antes dos 60 não conta história no almoço de domingo.",
+          "texto_tela": "A exceção que todo mundo lembra"
+        },
+        {
+          "tempo": "17-27s",
+          "visual": "Plano fechado, tom sério e calmo, sem música.",
+          "fala": "Risco é chance. O cigarro aumenta a chance de infarto e de AVC. Tem gente que escapa. Você só não sabe se vai ser você.",
+          "texto_tela": "Risco é chance"
+        },
+        {
+          "tempo": "27-34s",
+          "visual": "Jump cut, plano médio, médico mais próximo da câmera, tom acolhedor.",
+          "fala": "Eu não apostaria o meu coração no caso do vovô. E se você quer parar, dá pra parar com ajuda. Tem tratamento até no SUS.",
+          "texto_tela": "Parar tem ajuda"
+        },
+        {
+          "tempo": "34-40s",
+          "visual": "Plano médio, sorriso, aponta para baixo (comentários).",
+          "fala": "Agora me conta: na sua família também tem um avô assim?",
+          "texto_tela": "Tem um avô assim? Comenta"
+        }
+      ],
+      "cta": "Comenta se na sua família também tem um avô assim",
+      "legenda": "Todo vídeo sobre cigarro tem esse comentário. E eu respondo com carinho: que bom pro seu avô. Mas a exceção não serve de plano pra ninguém. Se você quer parar de fumar, procure seu médico ou a unidade de saúde mais perto de você.\n\nE aí, na sua família também tem um avô assim? 👇\n\nDr(a). [NOME] | Cardiologista | CRM [XXXXX] | RQE [XXXXX]\nConteúdo educativo, não substitui consulta.",
+      "hashtags": [
+        "#cardiologia",
+        "#saudedocoracao",
+        "#parardefumar",
+        "#tabagismo",
+        "#prevencao",
+        "#medicoresponde"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/De_zJ1AxPRm/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Todo vídeo sobre cigarro tem esse comentário. Hoje eu respondo.",
+        "\"Meu avô fumou e viveu até 90.\" Que bom. Agora escuta isso."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Tabagismo aumenta o risco de infarto e AVC: citar a fonte que o médico preferir (ex.: OMS, INCA ou diretriz da SBC).",
+        "[DADO A CONFIRMAR] Tratamento para parar de fumar oferecido pelo SUS (Programa Nacional de Controle do Tabagismo): confirmar se está disponível hoje antes de publicar.",
+        "Compliance: usar comentário real com autorização ou recriado. Borrar nome e foto de quem comentou. Humor sem ridicularizar a pessoa."
+      ]
+    },
+    {
+      "titulo": "Você não precisa de academia pra começar a cuidar do coração",
+      "formato": "talking-head",
+      "duracao_s": 38,
+      "objetivo": "alcance",
+      "gancho": "Você não precisa de academia pra começar a cuidar do coração.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Médico já caminhando numa calçada ou parque, celular na mão em modo selfie (ou gimbal), plano médio-fechado na altura dos olhos, de roupa casual e tênis.",
+          "fala": "Você não precisa de academia pra começar a cuidar do coração.",
+          "texto_tela": "Sem academia. Só tênis."
+        },
+        {
+          "tempo": "3-7s",
+          "visual": "Continua caminhando. Corte rápido para close do tênis no chão e volta ao rosto.",
+          "fala": "Precisa de um tênis e de um horário que seja seu.",
+          "texto_tela": "Tênis + horário fixo"
+        },
+        {
+          "tempo": "7-15s",
+          "visual": "Jump cut, ainda andando. Número 1 grande no terço superior.",
+          "fala": "Dica um: comece pequeno. Uma volta no quarteirão depois do almoço já conta.",
+          "texto_tela": "1. Comece pequeno"
+        },
+        {
+          "tempo": "15-23s",
+          "visual": "Jump cut. Médico finge cantarolar e para, rindo. Zoom de 110% em \"não consegue cantar\".",
+          "fala": "Dica dois: ritmo de conversa. Você consegue falar, mas não consegue cantar. Esse é o ponto.",
+          "texto_tela": "2. Fala, mas não canta"
+        },
+        {
+          "tempo": "23-30s",
+          "visual": "Jump cut, médico parado no banco do parque, plano médio.",
+          "fala": "Dica três: cole a caminhada num hábito que você já tem. Depois do café, na volta do trabalho, levando o cachorro.",
+          "texto_tela": "3. Cole num hábito"
+        },
+        {
+          "tempo": "30-34s",
+          "visual": "Plano fechado, tom sério e breve.",
+          "fala": "Tem doença no coração ou sente dor no peito quando anda? Fala com seu médico antes de começar.",
+          "texto_tela": "Dor no peito? Médico antes"
+        },
+        {
+          "tempo": "34-38s",
+          "visual": "Volta a caminhar, sorri e aponta para a câmera.",
+          "fala": "Manda esse vídeo pra quem vai caminhar com você.",
+          "texto_tela": "Manda pra sua dupla"
+        }
+      ],
+      "cta": "Manda esse vídeo pra quem vai caminhar com você",
+      "legenda": "Caminhar é um dos jeitos mais simples de cuidar do coração, e começar pequeno já conta. Comece com uma volta no quarteirão, no ritmo de conversa, sempre no mesmo horário.\n\nSe você tem doença cardíaca ou sente dor no peito, falta de ar ou tontura ao se esforçar, procure seu médico antes de começar.\n\nMarca aqui quem vai caminhar com você 👟\n\nDr(a). [NOME] | Cardiologista | CRM [XXXXX] | RQE [XXXXX]\nConteúdo educativo, não substitui consulta.",
+      "hashtags": [
+        "#cardiologia",
+        "#caminhada",
+        "#saudedocoracao",
+        "#atividadefisica",
+        "#prevencao",
+        "#habitossaudaveis"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/DfUue3vs-Dk/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "O exercício que eu mais receito não precisa de academia.",
+        "Se você acha que precisa de academia pra cuidar do coração, assiste isso."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Teste da fala (\"fala, mas não canta\") como referência de intensidade moderada: o médico valida se quer usar.",
+        "Não citar minutos por semana (ex.: recomendação da OMS) sem fonte confirmada pelo médico. Se quiser incluir, entra como dado com fonte.",
+        "Compliance: sem promessa de resultado (\"previne infarto\", \"cura pressão\"). Manter o aviso de procurar o médico em quem tem doença cardíaca."
+      ]
+    },
+    {
+      "titulo": "Dia Mundial do Diabetes: por que um cardiologista fala disso",
+      "formato": "talking-head",
+      "duracao_s": 45,
+      "objetivo": "autoridade",
+      "gancho": "Hoje é o Dia Mundial do Diabetes. E quem está falando é um cardiologista.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Plano médio-fechado no consultório, câmera na altura dos olhos. Detalhe azul (cor da campanha) no jaleco ou na mesa.",
+          "fala": "Hoje é o Dia Mundial do Diabetes. E quem está falando é um cardiologista.",
+          "texto_tela": "Diabetes é assunto de cardio?"
+        },
+        {
+          "tempo": "3-9s",
+          "visual": "Jump cut para plano fechado, sobrancelha levantada.",
+          "fala": "Estranho? Açúcar alto no sangue mexe com muito mais coisa do que a glicose.",
+          "texto_tela": "O açúcar vai além da glicose"
+        },
+        {
+          "tempo": "9-19s",
+          "visual": "Plano médio, médico usa as mãos para desenhar um tubo no ar (a artéria). Zoom de 110% em \"infarto e AVC\".",
+          "fala": "Com o tempo, a glicose alta machuca a parede das artérias. E artéria machucada abre caminho pro infarto e pro AVC.",
+          "texto_tela": "Glicose alta machuca artérias"
+        },
+        {
+          "tempo": "19-29s",
+          "visual": "Jump cut, médico conta nos dedos: um, dois, três.",
+          "fala": "Por isso, quando atendo quem tem diabetes, eu olho junto a pressão, o colesterol e o cigarro. O coração depende do conjunto.",
+          "texto_tela": "Glicose, pressão, colesterol"
+        },
+        {
+          "tempo": "29-39s",
+          "visual": "Plano fechado, tom próximo, inclinado levemente para a câmera.",
+          "fala": "Se você nunca mediu a glicose, ou faz tempo que não mede, hoje é um bom dia pra marcar. É um exame de sangue simples, e dá pra fazer no posto de saúde.",
+          "texto_tela": "Hoje é dia de marcar"
+        },
+        {
+          "tempo": "39-45s",
+          "visual": "Plano médio, sorriso, aponta para baixo.",
+          "fala": "Marca aqui quem você quer lembrar de fazer esse exame.",
+          "texto_tela": "Marca quem precisa ver"
+        }
+      ],
+      "cta": "Marca quem você quer lembrar de fazer o exame",
+      "legenda": "14 de novembro, Dia Mundial do Diabetes. Cardiologista fala disso porque a glicose alta, com o tempo, afeta as artérias e o coração. Cuidar do diabetes também é cuidar do coração, junto com pressão, colesterol e cigarro.\n\nNunca mediu a glicose ou faz tempo? Converse com seu médico ou procure a unidade básica de saúde.\n\nMarca quem precisa lembrar disso hoje 💙\n\nDr(a). [NOME] | Cardiologista | CRM [XXXXX] | RQE [XXXXX]\nConteúdo educativo, não substitui consulta.",
+      "hashtags": [
+        "#diamundialdodiabetes",
+        "#novembroazul",
+        "#diabetes",
+        "#cardiologia",
+        "#saudedocoracao",
+        "#prevencao"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Ddd-ExVOF7i/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Por que um cardiologista se preocupa com o seu açúcar no sangue?",
+        "Diabetes também é assunto de coração. Deixa eu te explicar."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Relação entre glicose alta crônica, lesão arterial e risco maior de infarto e AVC: citar a fonte que o médico preferir (ex.: diretriz da SBC ou da SBD).",
+        "[DADO A CONFIRMAR] Glicemia disponível nas UBS do SUS: confirmar a redação com o médico.",
+        "Data: publicar em 14/11/2026 (Dia Mundial do Diabetes). Se for depois, trocar \"Hoje é\" por \"Esta semana foi\".",
+        "Sugestão da pesquisa (padrão data comemorativa + collab): convidar um endocrinologista para collab no post. Se entrar, ele precisa de CRM/RQE próprio na legenda.",
+        "Hashtag #novembroazul também é usada para saúde do homem: avaliar se mantém."
+      ]
+    },
+    {
+      "titulo": "Pod sabor morango: o que o cardiologista vê quando você dá a tragada",
+      "formato": "react",
+      "duracao_s": 38,
+      "objetivo": "engajamento",
+      "gancho": "Ele acha que isso é mais leve que cigarro. O coração dele discorda.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Vídeo reagido em tela cheia: jovem soltando uma nuvem grande de vapor com um pod colorido (gravar uma encenação com figurante da equipe; se usar vídeo de terceiro, borrar o rosto e creditar o @ no canto). Pausa no meio da nuvem. Médico em janela no canto inferior direito, jaleco, sobrancelha levantada.",
+          "fala": "Ele acha que isso é mais leve que cigarro. O coração dele discorda.",
+          "texto_tela": "\"É só vapor\"?"
+        },
+        {
+          "tempo": "3-8s",
+          "visual": "Vídeo segue pausado. Zoom de 110% no pod. Médico aponta para o aparelho.",
+          "fala": "Na maioria desses pods tem nicotina. E nicotina mexe direto no sistema cardiovascular.",
+          "texto_tela": "Tem nicotina aqui"
+        },
+        {
+          "tempo": "8-16s",
+          "visual": "Corte seco: médico ocupa a tela, plano médio-fechado, vídeo reagido reduzido no canto superior.",
+          "fala": "Ela acelera o coração e sobe a pressão logo depois da tragada. Agora pensa nisso repetido o dia inteiro, porque o pod não tem fim igual a um cigarro.",
+          "texto_tela": "Coração acelera, pressão sobe"
+        },
+        {
+          "tempo": "16-24s",
+          "visual": "Volta o vídeo reagido, agora rodando por 2s com a pessoa tragando de novo. Pausa. Médico em janela balançando a cabeça.",
+          "fala": "O sabor de fruta engana. Parece bala, e a pessoa nem conta quantas vezes puxou.",
+          "texto_tela": "O sabor esconde a dose"
+        },
+        {
+          "tempo": "24-32s",
+          "visual": "Médico em plano fechado, fala mais calma, olhando para a câmera.",
+          "fala": "No consultório eu atendo gente jovem com palpitação que nunca ligou isso ao pod. Se você usa e sente o coração disparar, vale contar para o seu médico.",
+          "texto_tela": "Palpitação? Conte ao médico"
+        },
+        {
+          "tempo": "32-38s",
+          "visual": "Médico em tela cheia, leve sorriso, aponta para baixo (comentários).",
+          "fala": "Agora me fala aqui embaixo: você acha que vape é mais leve que cigarro? Quero ler.",
+          "texto_tela": "Mais leve que cigarro? Comenta"
+        }
+      ],
+      "cta": "Comenta aqui: você acha que vape é mais leve que cigarro?",
+      "legenda": "Sabor de morango, cheiro de bala, cara de inofensivo. Mas o que vai pro seu sangue é nicotina, e o coração sente.\n\nSe você usa pod e já sentiu o coração acelerar do nada, converse com seu médico. Sem julgamento, a ideia é cuidar.\n\nE você, acha que vape é mais leve que cigarro? Me conta nos comentários.\n\nDr(a). [NOME] | Cardiologista | CRM [UF] [Nº] | RQE [Nº]\nConteúdo educativo. Não substitui consulta.",
+      "hashtags": [
+        "#cardiologia",
+        "#vape",
+        "#pod",
+        "#nicotina",
+        "#saudedocoracao",
+        "#cigarroeletronico",
+        "#prevencao"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/DdRZ7D8ICu1/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Esse pod sabor morango faz uma coisa com o seu coração que ninguém te conta.",
+        "\"É só vapor.\" Deixa eu te mostrar o que acontece no coração."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Confirmar com o médico a afirmação de que a nicotina eleva frequência cardíaca e pressão arterial de forma aguda, com referência (diretriz SBC ou revisão) para citar se alguém perguntar.",
+        "[DADO A CONFIRMAR] A fala sobre atender jovens com palpitação no consultório só entra se for verdadeira para o médico da medsafe; senão, trocar por 'é comum chegar jovem com palpitação'.",
+        "Compliance CFM: não mostrar pessoa identificável usando vape sem autorização. Preferir encenação própria; se usar vídeo de terceiro, borrar o rosto e creditar o @.",
+        "Venda de cigarro eletrônico é proibida no Brasil (Anvisa). Não mostrar marca do aparelho para não parecer divulgação."
+      ]
+    },
+    {
+      "titulo": "Estatina causa demência? Respondendo a pergunta que mais chega no direct",
+      "formato": "react",
+      "duracao_s": 50,
+      "objetivo": "autoridade",
+      "gancho": "\"Doutor, parei a estatina porque li que dá demência.\" Calma. Vamos olhar isso juntos.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Print de uma mensagem de seguidor em tela cheia (nome e foto borrados, com autorização ou recriada pela equipe): 'Doutor, parei a estatina porque li que dá demência'. Médico em janela no canto inferior direito, mão no queixo.",
+          "fala": "\"Doutor, parei a estatina porque li que dá demência.\" Calma. Vamos olhar isso juntos.",
+          "texto_tela": "Estatina causa demência?"
+        },
+        {
+          "tempo": "3-8s",
+          "visual": "Zoom de 110% na palavra 'parei' no print. Médico aponta.",
+          "fala": "O que me preocupa nessa mensagem é essa palavra aqui: parei.",
+          "texto_tela": "O problema é o \"parei\""
+        },
+        {
+          "tempo": "8-17s",
+          "visual": "Corte: médico em plano médio-fechado, fundo do consultório.",
+          "fala": "Essa dúvida existe há anos. Teve relato de esquecimento em quem tomava, e isso virou manchete. Por isso os pesquisadores foram atrás.",
+          "texto_tela": "A dúvida tem história"
+        },
+        {
+          "tempo": "17-28s",
+          "visual": "Médico em janela no canto; ao fundo, a primeira página do artigo do estudo STAREE (título e periódico legíveis, crédito da fonte no rodapé). Médico aponta para o título.",
+          "fala": "Um estudo recente, o STAREE, acompanhou idosos tomando estatina ou placebo e olhou justamente para memória e demência. [DADO A CONFIRMAR: resultado principal em uma frase].",
+          "texto_tela": "Estudo STAREE"
+        },
+        {
+          "tempo": "28-38s",
+          "visual": "Corte seco: médico em plano fechado, tom sério.",
+          "fala": "Agora o ponto principal. Estatina é receitada pra proteger de infarto e AVC. Parar por conta própria tira essa proteção.",
+          "texto_tela": "Não pare por conta própria"
+        },
+        {
+          "tempo": "38-45s",
+          "visual": "Médico em plano médio, gesto aberto.",
+          "fala": "Se você sente algum efeito, leva pro seu médico. Dá pra ajustar dose, trocar o remédio, conversar.",
+          "texto_tela": "Sentiu algo? Leve ao médico"
+        },
+        {
+          "tempo": "45-50s",
+          "visual": "Médico em tela cheia, aponta para baixo.",
+          "fala": "E você, já ouviu que estatina faz mal pra cabeça? Me conta onde.",
+          "texto_tela": "Onde você ouviu isso?"
+        }
+      ],
+      "cta": "Comenta onde você ouviu que estatina faz mal pra memória.",
+      "legenda": "Essa pergunta chega toda semana: estatina causa demência?\n\nA dúvida é legítima e foi estudada. O que eu não quero é ver ninguém parando o remédio por causa de manchete. A estatina está ali pra proteger contra infarto e AVC.\n\nSe você sente algum efeito, converse com quem te acompanha. Sempre tem o que ajustar.\n\nVocê já ouviu que estatina faz mal pra memória? Onde?\n\nDr(a). [NOME] | Cardiologista | CRM [UF] [Nº] | RQE [Nº]\nConteúdo educativo. Não substitui consulta.",
+      "hashtags": [
+        "#estatina",
+        "#colesterol",
+        "#cardiologia",
+        "#demencia",
+        "#saudedocoracao",
+        "#infarto",
+        "#medicinabaseadaemevidencias"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/Deh6z87OF6q/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Estatina dá demência? Saiu um estudo que olhou exatamente isso.",
+        "Antes de parar sua estatina por medo de demência, assiste isso."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Estudo STAREE: confirmar desenho (idade dos participantes, droga e dose, comparação com placebo), periódico e ano de publicação, e qual foi o resultado sobre demência e declínio cognitivo. Preencher a frase marcada na cena 17-28s só depois de ler o artigo.",
+        "[DADO A CONFIRMAR] Confirmar a afirmação de que houve relatos de efeitos na memória com estatinas (ex.: comunicado de agência reguladora) antes de dizer 'teve relato de esquecimento'.",
+        "Compliance CFM: mensagem de seguidor só com nome e foto borrados ou recriada pela equipe. Não indicar dose nem troca de medicamento no vídeo; manter a orientação de procurar o médico.",
+        "Mostrar o artigo com crédito visível da fonte (periódico e autores) no rodapé."
+      ]
+    },
+    {
+      "titulo": "Energético + pré-treino antes da academia: reagindo à trend",
+      "formato": "react",
+      "duracao_s": 36,
+      "objetivo": "engajamento",
+      "gancho": "Energético, pré-treino e café antes do treino. Vamos ver o que o coração acha disso.",
+      "cenas": [
+        {
+          "tempo": "0-3s",
+          "visual": "Vídeo reagido em tela cheia: pessoa na bancada da cozinha virando uma lata de energético, depois o pote de pré-treino, depois o café (encenação própria da equipe; se usar trend de terceiro, borrar rosto e creditar o @). Pausa com as três bebidas lado a lado. Médico em janela no canto inferior direito, olhos arregalados.",
+          "fala": "Energético, pré-treino e café antes do treino. Vamos ver o que o coração acha disso.",
+          "texto_tela": "O combo da academia"
+        },
+        {
+          "tempo": "3-9s",
+          "visual": "Zoom de 110% nas três bebidas. Médico aponta uma por uma.",
+          "fala": "Repara numa coisa: as três têm cafeína. A pessoa acha que tomou três coisas diferentes, mas somou a mesma.",
+          "texto_tela": "As 3 têm cafeína"
+        },
+        {
+          "tempo": "9-17s",
+          "visual": "Corte seco: médico em plano médio-fechado, vídeo reagido reduzido no canto superior.",
+          "fala": "Cafeína em excesso pode deixar o coração acelerado, dar palpitação, tremedeira e subir a pressão. E aí você ainda vai fazer esforço em cima disso.",
+          "texto_tela": "Palpitação, tremor, pressão"
+        },
+        {
+          "tempo": "17-25s",
+          "visual": "Volta o vídeo reagido rodando 2s: a pessoa já no treino, ofegante. Pausa. Médico em janela, sério.",
+          "fala": "Quem tem arritmia, pressão alta ou já sentiu o coração disparar precisa de mais cuidado ainda. Muita gente só descobre que tem algo quando passa mal.",
+          "texto_tela": "Arritmia ou pressão alta? Atenção"
+        },
+        {
+          "tempo": "25-31s",
+          "visual": "Médico em plano fechado, tom calmo.",
+          "fala": "Antes de montar seu combo, leia o rótulo, some a cafeína e converse com um profissional.",
+          "texto_tela": "Leia o rótulo. Some."
+        },
+        {
+          "tempo": "31-36s",
+          "visual": "Médico em tela cheia, aponta para baixo.",
+          "fala": "Qual é o seu ritual antes do treino? Conta aqui que eu respondo alguns.",
+          "texto_tela": "Qual é o seu combo?"
+        }
+      ],
+      "cta": "Comenta qual é o seu ritual antes do treino.",
+      "legenda": "Energético, pré-treino, café. Parece que cada um faz uma coisa, mas os três têm cafeína, e o coração soma tudo.\n\nSe você tem palpitação, pressão alta ou alguma arritmia, esse combo merece uma conversa com seu médico antes.\n\nE aí, qual é o seu ritual antes do treino? Conta aqui.\n\nDr(a). [NOME] | Cardiologista | CRM [UF] [Nº] | RQE [Nº]\nConteúdo educativo. Não substitui consulta.",
+      "hashtags": [
+        "#cardiologia",
+        "#pretreino",
+        "#energetico",
+        "#cafeina",
+        "#academia",
+        "#saudedocoracao",
+        "#palpitacao"
+      ],
+      "audio": "voz original",
+      "referencia_url": "https://www.instagram.com/reel/DfQL7LVNWIM/",
+      "avatar": null,
+      "ganchos_alternativos": [
+        "Esse é o combo que mais aparece no meu consultório depois de uma palpitação.",
+        "Você toma energético e pré-treino juntos? Assiste antes do próximo treino."
+      ],
+      "plataforma": "instagram",
+      "alertas": [
+        "[DADO A CONFIRMAR] Confirmar com o médico os efeitos citados do excesso de cafeína (taquicardia, palpitação, tremor, aumento de pressão) e se ele quer citar um limite diário de referência. Se citar, incluir a fonte (ex.: Anvisa, EFSA ou FDA) e o número exato antes de gravar.",
+        "[DADO A CONFIRMAR] A frase 'muita gente só descobre que tem algo quando passa mal' precisa do aval do médico; se não se sustentar, trocar por 'vale avaliar antes de começar'.",
+        "Compliance CFM: não mostrar marca de energético ou pré-treino (evita cara de publicidade ou de ataque a marca). Encenação própria ou trend de terceiro com rosto borrado e crédito do @.",
+        "O gancho alternativo 1 só pode ser usado se for verdade na prática do médico."
+      ]
+    }
+  ]
+}
